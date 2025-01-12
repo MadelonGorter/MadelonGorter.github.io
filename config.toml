@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Coat Assistant'
+theme= 'PaperMod'
+
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 2
+
+  [[menu.main]]
+  name = "Blog"
+  url = "/blog"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Post"
+  url = "/post"
+  weight = 4

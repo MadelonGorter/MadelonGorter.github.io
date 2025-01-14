@@ -16,11 +16,33 @@ theme= 'PaperMod'
   weight = 2
 
   [[menu.main]]
+  name = "Documentation"
+  url = "/documentation"
+  weight = 3
+
+  [[menu.main]]
+  name = "Contribute"
+  url = "/contribute"
+  weight = 4
+  
+  [[menu.main]]
   name = "Blog"
   url = "/blog"
-  weight = 3
+  weight = 5
   
   [[menu.main]]
   name = "Post"
   url = "/post"
-  weight = 4
+  weight = 6
+
+  
+  [params]
+  defaultTheme = "dark"
+
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my website."
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:m.gorter@student.utwente.nl"

@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/abilitytechlab/abilitytechlab.github.io'
 languageCode = 'en-us'
 title = 'Coat Assistant'
 theme= 'PaperMod'

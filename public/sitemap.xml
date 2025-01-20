@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://abilitytechlab.github.io/blog/</loc>
     <lastmod>2025-01-12T11:07:13+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://abilitytechlab.github.io/</loc>
     <lastmod>2025-01-12T11:07:13+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/i-want-my-tools/</loc>
+    <loc>https://abilitytechlab.github.io/post/i-want-my-tools/</loc>
     <lastmod>2025-01-10T11:17:31+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://abilitytechlab.github.io/post/</loc>
     <lastmod>2025-01-10T11:17:31+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/hello-world/</loc>
+    <loc>https://abilitytechlab.github.io/post/hello-world/</loc>
     <lastmod>2025-01-10T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://abilitytechlab.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://abilitytechlab.github.io/tags/</loc>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
 +++
-date = '2025-01-10T11:17:31+01:00'
-title = 'I Want My Tools'
+date = '2025-01-27T11:17:31+01:00'
+title = 'Parts list included'
 +++
 
+I included the **parts list** for the coat assistant in the documentation. With this list you are able to identify and purchase parts necessary to make your own coat assistant.
 
-Hey I love building things but my tools are missing. **Do you know where they are?**

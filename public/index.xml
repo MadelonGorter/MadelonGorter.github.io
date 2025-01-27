@@ -2,25 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coat Assistant</title>
-    <link>https://abilitytechlab.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Coat Assistant</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2025 11:17:31 +0100</lastBuildDate>
-    <atom:link href="https://abilitytechlab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jan 2025 11:17:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I Want My Tools</title>
-      <link>https://abilitytechlab.github.io/post/i-want-my-tools/</link>
-      <pubDate>Fri, 10 Jan 2025 11:17:31 +0100</pubDate>
-      <guid>https://abilitytechlab.github.io/post/i-want-my-tools/</guid>
-      <description>&lt;p&gt;Hey I love building things but my tools are missing. &lt;strong&gt;Do you know where they are?&lt;/strong&gt;&lt;/p&gt;</description>
+      <title>Parts list included</title>
+      <link>http://localhost:1313/post/i-want-my-tools/</link>
+      <pubDate>Mon, 27 Jan 2025 11:17:31 +0100</pubDate>
+      <guid>http://localhost:1313/post/i-want-my-tools/</guid>
+      <description>&lt;p&gt;I included the &lt;strong&gt;parts list&lt;/strong&gt; for the coat assistant in the documentation. With this list you are able to identify and purchase parts necessary to make your own coat assistant.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hello World</title>
-      <link>https://abilitytechlab.github.io/post/hello-world/</link>
+      <title>Blogpost1</title>
+      <link>http://localhost:1313/blog/blogpost1/</link>
+      <pubDate>Sun, 12 Jan 2025 11:07:13 +0100</pubDate>
+      <guid>http://localhost:1313/blog/blogpost1/</guid>
+      <description>&lt;p&gt;I love to blog&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About the coat assistant</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 12 Jan 2025 11:07:13 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Coat assistant&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/coatassistant.JPEG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Assistive technologies are essential for improving the lives of people with disabilities, especially those with progressive conditions like ALS (Amyotrophic Lateral Sclerosis). ALS affects movement and independence, making everyday tasks more challenging for individuals and their families. This thesis explores the development and potential for small-scale production of such devices, focusing on the coat assistant created by the Kuiken family for their son, Sebastiaan, who could no longer go outside on his own because he was not able to put on his coat independently.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Do you want to contribute to this project?</title>
+      <link>http://localhost:1313/contribute/</link>
+      <pubDate>Sun, 12 Jan 2025 11:07:13 +0300</pubDate>
+      <guid>http://localhost:1313/contribute/</guid>
+      <description>&lt;p&gt;Follow these steps!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Find the documentation here!</title>
+      <link>http://localhost:1313/documentation/</link>
+      <pubDate>Sun, 12 Jan 2025 11:07:13 +0300</pubDate>
+      <guid>http://localhost:1313/documentation/</guid>
+      <description>&lt;h1 id=&#34;parts-list&#34;&gt;Parts list&lt;/h1&gt;
+&lt;p&gt;The coat assistant was originally built at home without keeping a detailed list of the parts used. To address this, a parts list was made based on the design of the coat assistant. This list provides a clear overview of all the parts used in the coat assistant. With this list the coat assistant becomes more reproducible since people are now able to identify and purchase the parts needed to build their own. To improve the accessibility, the list includes links to manufacturers, costs and technical details. The complete list is found in Appendix 1 with an explanation of the list in Appendix 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting up the documentation</title>
+      <link>http://localhost:1313/post/hello-world/</link>
       <pubDate>Fri, 10 Jan 2025 11:09:52 +0100</pubDate>
-      <guid>https://abilitytechlab.github.io/post/hello-world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+      <guid>http://localhost:1313/post/hello-world/</guid>
+      <description>&lt;p&gt;I have started with setting up the website for the documentation! This will take a lot of time to learn everything and set it up correctly!&lt;/p&gt;
+&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text&lt;/p&gt;
 &lt;p&gt;This is &lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;2nd-level&#34;&gt;2nd level&lt;/h2&gt;

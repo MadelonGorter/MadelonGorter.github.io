@@ -41,7 +41,7 @@ theme= 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
-    Content = "Welcome to my website."
+    Content = "Welcome to the coat assistant website! You are able to find all the information to make your own coat assistant. Currently the website is a work in progress which means that many things are not finished."
 
   [[params.socialIcons]]
     name = "email"

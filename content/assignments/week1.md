@@ -1,6 +1,6 @@
 +++
 date = '2025-02-12T11:09:52+01:00'
-title = 'Setting up the documentation'
+title = 'My First Assignment'
 +++
 
 # Week 1 Assignment
@@ -11,7 +11,7 @@ You can now find information about me in the about tab!
 
 ## Workspace
 Below you can find a picture of my own workspace!
-![Coat assistant](/img/coatassistant.JPEG)
+![Teaching windsurfing](/img/9568.JPEG)
 
 ## Design Assignment
 Make the lego
@@ -28,3 +28,16 @@ Where would you go hunting for tinkerspiration? List 5 physical and 5 online res
 
 **Question 4**
 List 5 domains, challenges or settings in which you would like to apply tinkering, and explain why. Can you identify some sweet spots, (perhaps beyond the well-known such as STEM education) and can you also define some limitations? Are there 'untinkerable' domains?
+
+
+Markdown syntax:
+
+# Hello World
+
+This is **bold** text
+
+This is *italics*
+
+## 2nd level 
+
+### 3rd level

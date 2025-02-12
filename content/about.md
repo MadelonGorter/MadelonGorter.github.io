@@ -1,11 +1,11 @@
 +++
 date = '2025-01-12T11:07:13+02:00'
-title = 'About the coat assistant'
-image = '/img/coatassistant.JPEG'
+title = 'About me!'
+
 
 +++
 
-![Coat assistant](/img/coatassistant.JPEG)
 
-My name is Madelon Gorter. I love to wind and wave surf!
+My name is Madelon Gorter. I love to wind and wave surf! Below is a picture of me teaching windsurfing at Surfin 24!
 
+![Teaching windsurfing](/img/9568.JPEG)

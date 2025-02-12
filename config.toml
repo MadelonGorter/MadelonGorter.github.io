@@ -1,6 +1,6 @@
-baseURL = 'https://abilitytechlab.github.io/'
+baseURL = 'https://madelongorter.github.io/'
 languageCode = 'en-us'
-title = 'Coat Assistant'
+title = 'Portfolio website'
 theme= 'PaperMod'
 
 

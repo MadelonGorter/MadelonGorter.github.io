@@ -20,6 +20,7 @@
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml">
+<link rel="alternate" type="application/json" href="http://localhost:1313/index.json">
 <link rel="alternate" hreflang="en" href="http://localhost:1313/">
 <noscript>
     <style>
@@ -69,33 +70,18 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/" title="Home">
-                    <span class="active">Home</span>
-                </a>
-            </li>
-            <li>
                 <a href="http://localhost:1313/about" title="About">
                     <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/documentation" title="Documentation">
-                    <span>Documentation</span>
+                <a href="http://localhost:1313/assignments" title="Assignments">
+                    <span>Assignments</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/contribute" title="Contribute">
-                    <span>Contribute</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/blog" title="Blog">
-                    <span>Blog</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/post" title="Post">
-                    <span>Post</span>
+                <a href="http://localhost:1313/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
                 </a>
             </li>
         </ul>
@@ -103,16 +89,21 @@
 </header>
 
 
-<main class="main"> 
-<article class="first-entry home-info">
-    <header class="entry-header">
-        <h1>Hi there 👋</h1>
-    </header>
-    <div class="entry-content">
-        Welcome to the coat assistant website! You are able to find all the information to make your own coat assistant. Currently the website is a work in progress which means that many things are not finished.
-    </div>
-    <footer class="entry-footer">
-        <div class="social-icons" >
+<main class="main"><div class="profile">
+    <div class="profile_inner">
+        <img draggable="false" src="http://localhost:1313/img/Masterskip.JPEG" alt="Profile picture" title="Profile picture"
+            height="200" width="200" />
+        <h1>Madelon Gorter</h1>
+        <span>Welcome to my portfolio website!</span><div class="social-icons" >
+    <a href="https://www.instagram.com/madelon.gorter/" target="_blank" rel="noopener noreferrer me"
+        title="Instagram">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+    <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line>
+</svg>
+    </a>
     <a href="mailto:m.gorter@student.utwente.nl" target="_blank" rel="noopener noreferrer me"
         title="Email">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
@@ -123,36 +114,32 @@
     </a>
 </div>
 
-    </footer>
-</article>
+        <div class="buttons">
+            <a class="button" href="/about" rel="noopener" title="About">
+                <span class="button-inner">
+                    About
+                </span>
+            </a>
+            <a class="button" href="/assignments" rel="noopener" title="Assignments">
+                <span class="button-inner">
+                    Assignments
+                </span>
+            </a>
+            <a class="button" href="https://github.com/" rel="noopener" title="Github">
+                <span class="button-inner">
+                    Github&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </span>
+            </a>
+        </div>
+    </div>
+</div>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Parts list included
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>I included the parts list for the coat assistant in the documentation. With this list you are able to identify and purchase parts necessary to make your own coat assistant.
-</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-01-27 11:17:31 +0100 CET'>January 27, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to Parts list included" href="http://localhost:1313/post/i-want-my-tools/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Setting up the documentation
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>I have started with setting up the website for the documentation! This will take a lot of time to learn everything and set it up correctly!
-Hello World This is bold text
-This is italics
-2nd level 3rd level</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-01-10 11:09:52 +0100 CET'>January 10, 2025</span></footer>
-  <a class="entry-link" aria-label="post link to Setting up the documentation" href="http://localhost:1313/post/hello-world/"></a>
-</article>
     </main>
     
 <footer class="footer">

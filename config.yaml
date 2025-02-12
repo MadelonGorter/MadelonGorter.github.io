@@ -1,0 +1,52 @@
+baseURL: https://madelongorter.github.io/
+languageCode: en-us
+title: Portfolio website
+theme: PaperMod
+
+
+
+menu:
+  main:
+    - name: About
+      url: /about
+      weight: 1
+    - name: Assignments
+      url: /assignments
+      weight: 2
+    - name: Search
+      url: /search
+      weight: 3   
+
+params:
+  ShowToc: true
+  TocOpen: true
+  ShowBreadCrumbs: true
+  defaultTheme: dark
+  profileMode:
+    enabled: true
+    title: "Madelon Gorter" # optional default will be site title
+    subtitle: "Welcome to my portfolio website!"
+    imageUrl: "img/Masterskip.JPEG" # optional
+    imageTitle: "Profile picture" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Assignments
+        url: "/assignments"        
+      - name: Github
+        url: "https://github.com/"
+
+  socialIcons: # optional
+    - name: instagram
+      url: https://www.instagram.com/madelon.gorter/
+    - name: email
+      url: mailto:m.gorter@student.utwente.nl
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+

@@ -6,56 +6,47 @@
     <description>Recent content on Portfolio website</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 11:17:31 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 11:09:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Parts list included</title>
-      <link>http://localhost:1313/post/i-want-my-tools/</link>
-      <pubDate>Mon, 27 Jan 2025 11:17:31 +0100</pubDate>
-      <guid>http://localhost:1313/post/i-want-my-tools/</guid>
-      <description>&lt;p&gt;I included the &lt;strong&gt;parts list&lt;/strong&gt; for the coat assistant in the documentation. With this list you are able to identify and purchase parts necessary to make your own coat assistant.&lt;/p&gt;</description>
+      <title>01 Getting Started</title>
+      <link>http://localhost:1313/assignments/01-getting_started/</link>
+      <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/assignments/01-getting_started/</guid>
+      <description>&lt;h1 id=&#34;week-1-assignment&#34;&gt;Week 1 Assignment&lt;/h1&gt;
+&lt;h2 id=&#34;about-page&#34;&gt;About Page&lt;/h2&gt;
+&lt;p&gt;You can now find information about me in the about tab!&lt;/p&gt;
+&lt;h2 id=&#34;workspace&#34;&gt;Workspace&lt;/h2&gt;
+&lt;p&gt;Below you can find a picture of my own workspace!
+&lt;img alt=&#34;Workspace desk&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Bureau.JPEG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Workspace storage&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Kast.JPEG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In my workspace I have a lot of different materials and tools which I am able to use, these are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3D printer&lt;/li&gt;
+&lt;li&gt;Wood tools&lt;/li&gt;
+&lt;li&gt;Sander&lt;/li&gt;
+&lt;li&gt;Hammer&lt;/li&gt;
+&lt;li&gt;Screwdrivers&lt;/li&gt;
+&lt;li&gt;Pliers&lt;/li&gt;
+&lt;li&gt;Lego&lt;/li&gt;
+&lt;li&gt;Sewing kit&lt;/li&gt;
+&lt;li&gt;Arduino kit&lt;/li&gt;
+&lt;li&gt;Electronic parts&lt;/li&gt;
+&lt;li&gt;Laptop&lt;/li&gt;
+&lt;li&gt;Sketchbooks&lt;/li&gt;
+&lt;li&gt;Pencils&lt;/li&gt;
+&lt;li&gt;Markers&lt;/li&gt;
+&lt;li&gt;Paint&lt;/li&gt;
+&lt;li&gt;Brushes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I tinker the most in the Design domain more specific in the electronics and 3D printing domains. In these domains the tinkering helps to create prototypes and also iterate these prototypes to see in what ways a prototype can be made and what can be changed. After that the tinkering helps to combine all of these prototypes into one main idea.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blogpost1</title>
-      <link>http://localhost:1313/blog/blogpost1/</link>
-      <pubDate>Sun, 12 Jan 2025 11:07:13 +0100</pubDate>
-      <guid>http://localhost:1313/blog/blogpost1/</guid>
-      <description>&lt;p&gt;I love to blog&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About the coat assistant</title>
+      <title>About me!</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 12 Jan 2025 11:07:13 +0200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Coat assistant&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/coatassistant.JPEG&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Assistive technologies are essential for improving the lives of people with disabilities, especially those with progressive conditions like ALS (Amyotrophic Lateral Sclerosis). ALS affects movement and independence, making everyday tasks more challenging for individuals and their families. This thesis explores the development and potential for small-scale production of such devices, focusing on the coat assistant created by the Kuiken family for their son, Sebastiaan, who could no longer go outside on his own because he was not able to put on his coat independently.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Do you want to contribute to this project?</title>
-      <link>http://localhost:1313/contribute/</link>
-      <pubDate>Sun, 12 Jan 2025 11:07:13 +0300</pubDate>
-      <guid>http://localhost:1313/contribute/</guid>
-      <description>&lt;p&gt;Follow these steps!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Find the documentation here!</title>
-      <link>http://localhost:1313/documentation/</link>
-      <pubDate>Sun, 12 Jan 2025 11:07:13 +0300</pubDate>
-      <guid>http://localhost:1313/documentation/</guid>
-      <description>&lt;h1 id=&#34;parts-list&#34;&gt;Parts list&lt;/h1&gt;
-&lt;p&gt;The coat assistant was originally built at home without keeping a detailed list of the parts used. To address this, a parts list was made based on the design of the coat assistant. This list provides a clear overview of all the parts used in the coat assistant. With this list the coat assistant becomes more reproducible since people are now able to identify and purchase the parts needed to build their own. To improve the accessibility, the list includes links to manufacturers, costs and technical details. The complete list is found in Appendix 1 with an explanation of the list in Appendix 2.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Setting up the documentation</title>
-      <link>http://localhost:1313/post/hello-world/</link>
-      <pubDate>Fri, 10 Jan 2025 11:09:52 +0100</pubDate>
-      <guid>http://localhost:1313/post/hello-world/</guid>
-      <description>&lt;p&gt;I have started with setting up the website for the documentation! This will take a lot of time to learn everything and set it up correctly!&lt;/p&gt;
-&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text&lt;/p&gt;
-&lt;p&gt;This is &lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2nd-level&#34;&gt;2nd level&lt;/h2&gt;
-&lt;h3 id=&#34;3rd-level&#34;&gt;3rd level&lt;/h3&gt;</description>
+      <description>&lt;p&gt;My name is Madelon Gorter. I love to wind and wave surf! Below is a picture of me teaching windsurfing at Surfin 24! In my bachelor I studied CreaTe and am now doing the Interaction Technology Master. I like to 3D print and design solutions for people with a problem, more specifically people with a disability. I want to give everyone the change to have a personalized product that is able to support them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

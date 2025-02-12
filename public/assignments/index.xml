@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Assignments on Portfolio website</title>
+    <link>http://localhost:1313/assignments/</link>
+    <description>Recent content in Assignments on Portfolio website</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2025 11:09:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Getting Started</title>
+      <link>http://localhost:1313/assignments/01-getting_started/</link>
+      <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/assignments/01-getting_started/</guid>
+      <description>&lt;h1 id=&#34;week-1-assignment&#34;&gt;Week 1 Assignment&lt;/h1&gt;
+&lt;h2 id=&#34;about-page&#34;&gt;About Page&lt;/h2&gt;
+&lt;p&gt;You can now find information about me in the about tab!&lt;/p&gt;
+&lt;h2 id=&#34;workspace&#34;&gt;Workspace&lt;/h2&gt;
+&lt;p&gt;Below you can find a picture of my own workspace!
+&lt;img alt=&#34;Workspace desk&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Bureau.JPEG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Workspace storage&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Kast.JPEG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In my workspace I have a lot of different materials and tools which I am able to use, these are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3D printer&lt;/li&gt;
+&lt;li&gt;Wood tools&lt;/li&gt;
+&lt;li&gt;Sander&lt;/li&gt;
+&lt;li&gt;Hammer&lt;/li&gt;
+&lt;li&gt;Screwdrivers&lt;/li&gt;
+&lt;li&gt;Pliers&lt;/li&gt;
+&lt;li&gt;Lego&lt;/li&gt;
+&lt;li&gt;Sewing kit&lt;/li&gt;
+&lt;li&gt;Arduino kit&lt;/li&gt;
+&lt;li&gt;Electronic parts&lt;/li&gt;
+&lt;li&gt;Laptop&lt;/li&gt;
+&lt;li&gt;Sketchbooks&lt;/li&gt;
+&lt;li&gt;Pencils&lt;/li&gt;
+&lt;li&gt;Markers&lt;/li&gt;
+&lt;li&gt;Paint&lt;/li&gt;
+&lt;li&gt;Brushes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I tinker the most in the Design domain more specific in the electronics and 3D printing domains. In these domains the tinkering helps to create prototypes and also iterate these prototypes to see in what ways a prototype can be made and what can be changed. After that the tinkering helps to combine all of these prototypes into one main idea.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

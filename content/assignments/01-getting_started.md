@@ -39,14 +39,20 @@ In my workspace I have a lot of different materials and tools which I am able to
 
 I tinker the most in the Design domain more specific in the electronics and 3D printing domains. In these domains the tinkering helps to create prototypes and also iterate these prototypes to see in what ways a prototype can be made and what can be changed. After that the tinkering helps to combine all of these prototypes into one main idea.
 
-To get away from my screen I like to take pictures and make drawings
+To get away from my screen I like to take pictures and make drawings.
 
 I have a lot of item on my wishlist but the main ones are to have a 3D printer that is able to print TPU and a soldering station.
 
 ## Design Assignment
-Make the lego
-Druk knoopjes
-Lenzenbakje
+The design assignment was to come up with your own design of a construction/building block. Make at least 10 concept drawings or a morphological overview and to keep in mind that next session (so think ahead) the goal is to make a physical prototype of this building block.
+
+For my building block I used sketching as the tinkering method. In the picture you can see the process.
+
+Ideas 
+- Druk knoopjes
+- Lenzenbakje
+
+Sadly I did not have enough time before the break and was not able to take my laptop on my surfing trip. The design is made but no sketches have been put on the website yet.
 
 ## Reflective Questions
 ### **Question 1** 

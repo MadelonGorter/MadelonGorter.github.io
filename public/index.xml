@@ -6,8 +6,182 @@
     <description>Recent content on Portfolio website</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 11:09:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 11:09:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Getting Started</title>
+      <link>http://localhost:1313/assignments/02-hands-on/</link>
+      <pubDate>Mon, 03 Mar 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/assignments/02-hands-on/</guid>
+      <description>&lt;h1 id=&#34;week-2-assignment&#34;&gt;Week 2 Assignment&lt;/h1&gt;
+&lt;h1 id=&#34;findings-session-2&#34;&gt;Findings Session 2&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tinkerability of Materials&lt;/th&gt;
+          &lt;th&gt;Price&lt;/th&gt;
+          &lt;th&gt;Seeing Results&lt;/th&gt;
+          &lt;th&gt;Seeing the Process&lt;/th&gt;
+          &lt;th&gt;Easy to get started&lt;/th&gt;
+          &lt;th&gt;Easy to Connect&lt;/th&gt;
+          &lt;th&gt;Variety of Materials&lt;/th&gt;
+          &lt;th&gt;Variety of Genres&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Story cubes&lt;/td&gt;
+          &lt;td&gt;Data 1&lt;/td&gt;
+          &lt;td&gt;Data 2&lt;/td&gt;
+          &lt;td&gt;Data 3&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Art of tinkering&lt;/td&gt;
+          &lt;td&gt;Data 4&lt;/td&gt;
+          &lt;td&gt;Data 5&lt;/td&gt;
+          &lt;td&gt;Data 6&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Totem maker&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Maker beam&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Arduino starter kit&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sparkfun inventor arduino kit&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Arduino grove sensor kit&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;MaKey MaKey&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;LEGO&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;BYOR&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;LittleBits&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Raspberry Pi Google AIY kit&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Raspberry Pi Minecraft kit&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;mBuild AI-IoT module set&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Makedo cardboard screws&lt;/td&gt;
+          &lt;td&gt;Data 7&lt;/td&gt;
+          &lt;td&gt;Data 8&lt;/td&gt;
+          &lt;td&gt;Data 9&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
     <item>
       <title>01 Getting Started</title>
       <link>http://localhost:1313/assignments/01-getting_started/</link>
@@ -40,6 +214,20 @@
 &lt;li&gt;Brushes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I tinker the most in the Design domain more specific in the electronics and 3D printing domains. In these domains the tinkering helps to create prototypes and also iterate these prototypes to see in what ways a prototype can be made and what can be changed. After that the tinkering helps to combine all of these prototypes into one main idea.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>01 Getting Started</title>
+      <link>http://localhost:1313/building-block/week-01/</link>
+      <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/building-block/week-01/</guid>
+      <description>&lt;h1 id=&#34;building-block-progress-week-1&#34;&gt;Building Block Progress Week 1&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>01 Getting Started</title>
+      <link>http://localhost:1313/building-block/week-02/</link>
+      <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/building-block/week-02/</guid>
+      <description>&lt;h1 id=&#34;building-block-progress-week-2&#34;&gt;Building Block Progress Week 2&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About me!</title>

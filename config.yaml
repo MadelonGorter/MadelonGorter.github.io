@@ -13,9 +13,12 @@ menu:
     - name: Assignments
       url: /assignments
       weight: 2
+    - name: Building Block
+      url: /building-block
+      weight: 3
     - name: Search
       url: /search
-      weight: 3   
+      weight: 4   
 
 params:
   ShowToc: true

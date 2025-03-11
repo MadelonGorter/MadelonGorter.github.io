@@ -8,7 +8,6 @@ TocOpen: true
 
 # Week 1 Assignment
 
-
 ## About Page
 You can now find information about me in the about tab!
 
@@ -42,17 +41,6 @@ I tinker the most in the Design domain more specific in the electronics and 3D p
 To get away from my screen I like to take pictures and make drawings.
 
 I have a lot of item on my wishlist but the main ones are to have a 3D printer that is able to print TPU and a soldering station.
-
-## Design Assignment
-The design assignment was to come up with your own design of a construction/building block. Make at least 10 concept drawings or a morphological overview and to keep in mind that next session (so think ahead) the goal is to make a physical prototype of this building block.
-
-For my building block I used sketching as the tinkering method. In the picture you can see the process.
-
-Ideas 
-- Druk knoopjes
-- Lenzenbakje
-
-Sadly I did not have enough time before the break and was not able to take my laptop on my surfing trip. The design is made but no sketches have been put on the website yet.
 
 ## Reflective Questions
 ### **Question 1** 

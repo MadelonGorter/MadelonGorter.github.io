@@ -10,7 +10,13 @@ TocOpen: true
 
 ## LEGO Serious Play
 Do adults need a different approach or role in facilitation? 
+Children are often used to just starting to play and seeing what is happening especially with LEGO. Adults might need more encouragement to start, be creative and keep going assuring them that they can not do something wrong. Adults have not played in a long time so some start up time shoiuld also be kept in mind.
+
 Which concepts are relevant?
+- Hands-on: using your hands to express your thoughts
+- Metaphors: expressing ideas with metaphors that can be found in the LEGO
+- Sharing & Safety: making sure people speak up and listen to what others say in a safe, non-judgmental environment.
+
 
 ## Invent to Learn Chapter 5
 Summarise the key principles mentioned by Papert and also the key principles by Montessori. Where do Papert and Montessori meet up? What is a fundamental difference in their approach? How well do their mantra's and thoughts on teaching translate to tinkering for 'children of different ages'?

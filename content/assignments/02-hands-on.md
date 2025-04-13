@@ -24,10 +24,10 @@ Combining all of the frameworks and opinions this means that in tinkering, mater
 
 
 References
-- [1] https://nl.wikipedia.org/wiki/James_Jerome_Gibson
-- [2] https://en.wikipedia.org/wiki/Don_Norman 
-- [3] https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affordances
-- [4] https://www.interaction-design.org/literature/topics/affordances?srsltid=AfmBOooyyHbb4hAxYGnsQC-uMnSeRPMCW6BzSUH4_u_TX9kw_tW2scZv 
+1. Wikipedia contributors. (n.d.). James Jerome Gibson. Wikipedia. Retrieved March 3, 2025, from https://nl.wikipedia.org/wiki/James_Jerome_Gibson
+2. Wikipedia contributors. (n.d.). Don Norman. Wikipedia. Retrieved March 3, 2025, from https://en.wikipedia.org/wiki/Don_Norman
+3. Interaction Design Foundation. (n.d.). Affordances. In The encyclopedia of human-computer interaction (2nd ed.). Retrieved March 3, 2025, from https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affordances
+4. Interaction Design Foundation. (n.d.). Affordances – What are affordances?. Retrieved March 3, 2025, from https://www.interaction-design.org/literature/topics/affordances
 
 
 

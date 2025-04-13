@@ -44,8 +44,6 @@ I have a lot of item on my wishlist but the main ones are to have a 3D printer t
 
 ## Reflective Questions
 ### **Question 1** 
-Tinkering is widely associated with trial-and-error and brainstorming.  Find dictionary definitions of the three techniques, and compare them. Does the definition of tinkering match the definition we have in the course? Also, ask a generative AI tool for the definitions and differences. Which aspects does the answer provided miss?
-
 Definitions according to the Cambridge Dictionary [1]
 - Tinkering: to make small changes to something, especially in an attempt to repair or improve it
 - Trial-and-error: a way of achieving an aim or solving a problem by trying a number of different methods and learning from the mistakes that you make
@@ -92,8 +90,6 @@ What aspects does the answer miss?
 The AI definition does not state that tinkering can also be done with a goal in mind. The AI definition also misses the broad settings in which Tinkering can be used. The AI states it as an approach to learn and problem solve while the course talks about it being a mindset.
 
 ### **Question 2**
-Can you take a typical I-Tech related project case, list and explain 5 technical hurdles? To which extent do they allow for a 'playful' approach in tackling them? Please give arguments.
-
 The project I have chosen is the Smirnoff - Mindtunes project [3] in which they use Brain Computer Interfacing to make music. This is done to give people who are tetraplegic the opportunity to be creative and make music together using only their brains. They transform emotion into brainwaves and then into sounds waves to make a song together.
 
 The 5 technical hurdles the project faced are:
@@ -104,7 +100,7 @@ The 5 technical hurdles the project faced are:
 5. Calibrating to each individual
 
 ### **Question 3**
-Where would you go hunting for tinkerspiration? List 5 physical and 5 online resources valuable for an I-Tech specialist. In which did you already find inspiration for a project you did or that got on your bucket list?
+I would go hunting for tinkerspiration at these physical and online places: 
 
 Physical:
 1. Ability Tech
@@ -112,7 +108,6 @@ Physical:
 3. Makerspaces
 4. Designlab 
 5. Museums
-
 
 Online:
 1. Thingiverse
@@ -127,8 +122,6 @@ I have gotten inspiration from a lot of YouTube videos and made projects which w
 
 
 ### **Question 4**
-List 5 domains, challenges or settings in which you would like to apply tinkering, and explain why. Can you identify some sweet spots, (perhaps beyond the well-known such as STEM education) and can you also define some limitations? Are there 'untinkerable' domains?
-
 The 5 domains, challenges or setting I would like to apply tinkering in are:
 1. Assitive technology
 - Why? Designing accessible personalized products for people with a disability. It is a way of coming up with small ideas that can improve the daily life of a person with a disability dramatically. For example a 3D printed part which can hold down greens on the counter for a person which is able to use one hand.
@@ -145,7 +138,7 @@ The sweetspots are in domains where a person is able to constantly change and th
 
 
 References
-- [1] https://dictionary.cambridge.org/
-- [2] https://chatgpt.com/
-- [3] https://www.youtube.com/watch?v=r7Nw41vNLUg
-- [4] https://inmoov.fr/ 
+1. Cambridge University Press. (n.d.). Cambridge Dictionary. Retrieved March 3, 2025, from https://dictionary.cambridge.org/
+2. OpenAI. (n.d.). ChatGPT. Retrieved March 3, 2025, from https://chatgpt.com/
+3. InMoov. (2020, May 3). InMoov is moving again [Video]. YouTube. https://www.youtube.com/watch?v=r7Nw41vNLUg
+4. InMoov. (n.d.). InMoov – Open source 3D printed life-size robot. Retrieved March 3, 2025, from https://inmoov.fr/

@@ -10,13 +10,12 @@ TocOpen: true
 
 ## LEGO Serious Play
 #### Role of Adults in Facilitation? 
-Children are often used to just starting to play and seeing what is happening especially with LEGO. Adults might need more encouragement to start, be creative and keep going assuring them that they can not do something wrong. Adults have not played in a long time so some start up time shoiuld also be kept in mind.
+Children are often used to just starting to play and seeing what is happening especially with LEGO. Adults might need more encouragement to start, be creative and keep going assuring them that they can not do something wrong. Adults have not played in a long time so some start up time should also be kept in mind.
 
 #### Relevant Concepts
 - Hands-on: using your hands to express your thoughts
 - Metaphors: expressing ideas with metaphors that can be found in the LEGO
 - Sharing & Safety: making sure people speak up and listen to what others say in a safe, non-judgmental environment.
-
 
 ## Teaching: Papert & Montessori
 From the Invent to Learn book chapter 5 multiple key principles by Papert and Montessori can be identified.

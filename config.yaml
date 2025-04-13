@@ -10,15 +10,15 @@ menu:
     - name: About
       url: /about
       weight: 1
-    - name: Assignments
+    - name: Reflection Assignments
       url: /assignments
       weight: 2
-    - name: Building Block
-      url: /building-block
-      weight: 3
-    - name: Design
-      url: /design
-      weight: 4     
+    - name: Individual Assigments
+      url: /individual-assignments
+      weight: 3      
+    - name: Group Work
+      url: /group-work
+      weight: 4       
     - name: Search
       url: /search
       weight: 5   

@@ -6,7 +6,7 @@ TocOpen: true
 
 ---
 
-# Week 1 Assignment
+# Week 1 Reflective Questions
 
 ## About Page
 You can now find information about me in the about tab!
@@ -46,7 +46,7 @@ I have a lot of item on my wishlist but the main ones are to have a 3D printer t
 ### **Question 1** 
 Tinkering is widely associated with trial-and-error and brainstorming.  Find dictionary definitions of the three techniques, and compare them. Does the definition of tinkering match the definition we have in the course? Also, ask a generative AI tool for the definitions and differences. Which aspects does the answer provided miss?
 
-Definitions according to the Cambridge Dictionary
+Definitions according to the Cambridge Dictionary [1]
 - Tinkering: to make small changes to something, especially in an attempt to repair or improve it
 - Trial-and-error: a way of achieving an aim or solving a problem by trying a number of different methods and learning from the mistakes that you make
 - Brainstorming: an activity or business method in which a group of people meet to suggest a lot of new ideas for possible development
@@ -57,7 +57,7 @@ Ways of creating new ideas and products
 
 The definition of tinkering from the dictionary has more to do with making changes to something that exists while the definition in the course is more about using materials to epxlore options. To explore options also small changes can be made. The dictionary definition is directed at a goal to repair or improve something but the course definition does not start with a goal. Exploring options is most often also done in small steps so in that way they match.
 
-AI tool
+AI tool [2]
 Definition
 - Tinkering: This is an open-ended, hands-on approach to learning and problem-solving. It involves experimenting with materials and ideas through playful exploration, allowing for creativity and personal expression. Tinkering encourages individuals to identify problems and work on solving them in creative ways, often without a predetermined outcome. 
 - Trial-and-Error: This method involves attempting various solutions to a problem until finding one that works. It's a process of making repeated, varied attempts, learning from mistakes, and gradually approaching a desired result. This approach is fundamental in learning and problem-solving, emphasizing persistence and adaptation. 
@@ -94,7 +94,7 @@ The AI definition does not state that tinkering can also be done with a goal in 
 ### **Question 2**
 Can you take a typical I-Tech related project case, list and explain 5 technical hurdles? To which extent do they allow for a 'playful' approach in tackling them? Please give arguments.
 
-The project I have chosen is the Smirnoff - Mindtunes project in which they use Brain Computer Interfacing to make music. This is done to give people who are tetraplegic the opportunity to be creative and make music together using only their brains. They transform emotion into brainwaves and then into sounds waves to make a song together.
+The project I have chosen is the Smirnoff - Mindtunes project [3] in which they use Brain Computer Interfacing to make music. This is done to give people who are tetraplegic the opportunity to be creative and make music together using only their brains. They transform emotion into brainwaves and then into sounds waves to make a song together.
 
 The 5 technical hurdles the project faced are:
 1. Sensor accuracy
@@ -121,7 +121,7 @@ Online:
 4. YouTube
 5. Arduino Project Hub
 
-I have gotten inspiration from a lot of YouTube videos and made projects which were available on Thingiverse. I have found multiple project on Thingiverse which are still on my bucket list and to be made list. For example completing the InMoov robot which can be seen in the image below.
+I have gotten inspiration from a lot of YouTube videos and made projects which were available on Thingiverse. I have found multiple project on Thingiverse which are still on my bucket list and to be made list. For example completing the InMoov [4] robot which can be seen in the image below.
 
 ![InMoov robot](/img/InMoov.jpg)
 
@@ -142,3 +142,10 @@ The 5 domains, challenges or setting I would like to apply tinkering in are:
 - Why? People can come up with everything they want which can work therapeutic since a person is able to let go off all their thoughts and stress because they focus on doing something with their hands. For example for a person with autism to make something that expresses their emotions.
 
 The sweetspots are in domains where a person is able to constantly change and thus iterate on ideas. I don't think there are untinkerable domains since it can always give ideas but in the medicine world it would be dangerous to use medicines that have not been tested. So it is also important that there are no risks or certain restrictions to tinkering in a domain. 
+
+
+References
+- [1] https://dictionary.cambridge.org/
+- [2] https://chatgpt.com/
+- [3] https://www.youtube.com/watch?v=r7Nw41vNLUg
+- [4] https://inmoov.fr/ 

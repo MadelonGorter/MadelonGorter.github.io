@@ -6,8 +6,19 @@
     <description>Recent content in Assignments on Portfolio website</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Mar 2025 11:09:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 11:09:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>05 Design Work &amp; Critical Making</title>
+      <link>http://localhost:1313/assignments/05-design-work-critical-making/</link>
+      <pubDate>Wed, 02 Apr 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/assignments/05-design-work-critical-making/</guid>
+      <description>&lt;h1 id=&#34;week-5-reflective-questions&#34;&gt;Week 5 Reflective Questions&lt;/h1&gt;
+&lt;h3 id=&#34;knowledge-resulting-from-tinkering&#34;&gt;Knowledge resulting from tinkering&lt;/h3&gt;
+&lt;p&gt;The knowledge resulting from tinkering in my experience is mostly problem solving skills and creativity. You are constantly focussing on how things fit together and can be changed. It also has big impact on being scared to try stuff out, you are constantly doing things and mostly exploring with your hands which removes this anxiety.&lt;/p&gt;
+&lt;h3 id=&#34;tinkering-with-digital-and-electronic-media&#34;&gt;Tinkering with digital and electronic media&lt;/h3&gt;
+&lt;p&gt;Tinkering with digital and electronic media adds some form of interaction since often sensors or microcontrollers are used which are able to provide some form of feedback. It also combines the physical world with the computing world to create something. Coding is also open-ended however there are some rules or syntax which must be used in order to get it working.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>03 Facilitation</title>
       <link>http://localhost:1313/assignments/03-facilitation2/</link>
@@ -31,165 +42,16 @@
       <link>http://localhost:1313/assignments/02-hands-on/</link>
       <pubDate>Mon, 03 Mar 2025 11:09:52 +0100</pubDate>
       <guid>http://localhost:1313/assignments/02-hands-on/</guid>
-      <description>&lt;h1 id=&#34;week-2-assignment&#34;&gt;Week 2 Assignment&lt;/h1&gt;
-&lt;h1 id=&#34;findings-session-2&#34;&gt;Findings Session 2&lt;/h1&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Tinkerability of Materials&lt;/th&gt;
-          &lt;th&gt;Self Guiding&lt;/th&gt;
-          &lt;th&gt;Preciousness&lt;/th&gt;
-          &lt;th&gt;Skills Needed&lt;/th&gt;
-          &lt;th&gt;Interoperability&lt;/th&gt;
-          &lt;th&gt;Seeing the Process&lt;/th&gt;
-          &lt;th&gt;Seeing the Results&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.storycubes.com/en/&#34;&gt;&lt;strong&gt;Story cubes&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.storycubes.com/en/&#34;&gt;&lt;strong&gt;Art of tinkering&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://totemmaker.net/&#34;&gt;&lt;strong&gt;Totem maker&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+-&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.makerbeam.com/&#34;&gt;&lt;strong&gt;Maker beam&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://store.arduino.cc/products/arduino-starter-kit-multi-language&#34;&gt;&lt;strong&gt;Arduino starter kit&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.sparkfun.com/catalogsearch/result/?q=inventor+kit&#34;&gt;&lt;strong&gt;Sparkfun inventor arduino kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://store.arduino.cc/en-nl/products/arduino-sensor-kit-bundle&#34;&gt;&lt;strong&gt;Arduino grove sensor kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://makeymakey.com/&#34;&gt;&lt;strong&gt;MaKey MaKey&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.lego.com/en-us/themes/boost/apps&#34;&gt;&lt;strong&gt;LEGO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.byor.nl/en/informatie/&#34;&gt;&lt;strong&gt;Build Your Own Robot&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.sarahepage.com/lb_electronic_music_inventor_kit/index.html&#34;&gt;&lt;strong&gt;LittleBits&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://aiyprojects.withgoogle.com/voice/&#34;&gt;&lt;strong&gt;Raspberry Pi Google AIY kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.amazon.com/Piper-Computer-Kit-Minecraft-Raspberry/dp/B07HPFF3KC&#34;&gt;&lt;strong&gt;Raspberry Pi Minecraft kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.techniscience.com/nl/nl/mbuild-platform-ai-iot-educatie-set/product/6592/&#34;&gt;&lt;strong&gt;mBuild AI-IoT module set&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+-&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.make.do/&#34;&gt;&lt;strong&gt;Makedo cardboard screws&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;+&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-          &lt;td&gt;++&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</description>
+      <description>&lt;h1 id=&#34;week-2-reflective-questions&#34;&gt;Week 2 Reflective Questions&lt;/h1&gt;
+&lt;p&gt;I was not physically present during session two and received some information from peers but that was not very useful. I looked into the concept of Affordance and searched for all the different materials online to make the material table. The table can be found on the material table tab.&lt;/p&gt;
+&lt;p&gt;The concept of affordance is used to give a better understanding about what makes materials good for tinkering. The concept of affordance can be viewed from two perspectives, namely Gibson and Norman. Gibson is focussed on the ecological psychology [1] and Norman used the human-computer interaction (HCI) framework [2].&lt;/p&gt;</description>
     </item>
     <item>
       <title>01 Getting Started</title>
       <link>http://localhost:1313/assignments/01-getting_started/</link>
       <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
       <guid>http://localhost:1313/assignments/01-getting_started/</guid>
-      <description>&lt;h1 id=&#34;week-1-assignment&#34;&gt;Week 1 Assignment&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;week-1-reflective-questions&#34;&gt;Week 1 Reflective Questions&lt;/h1&gt;
 &lt;h2 id=&#34;about-page&#34;&gt;About Page&lt;/h2&gt;
 &lt;p&gt;You can now find information about me in the about tab!&lt;/p&gt;
 &lt;h2 id=&#34;workspace&#34;&gt;Workspace&lt;/h2&gt;

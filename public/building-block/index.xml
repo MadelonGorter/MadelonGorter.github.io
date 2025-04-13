@@ -6,21 +6,13 @@
     <description>Recent content in Building-Blocks on Portfolio website</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Mar 2025 11:09:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 11:09:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/building-block/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>02 Hands-on</title>
-      <link>http://localhost:1313/building-block/week-02/</link>
-      <pubDate>Sat, 01 Mar 2025 11:09:52 +0100</pubDate>
-      <guid>http://localhost:1313/building-block/week-02/</guid>
-      <description>&lt;h1 id=&#34;building-block-progress-week-2&#34;&gt;Building Block Progress Week 2&lt;/h1&gt;
-&lt;p&gt;I made the model for my building block and bought magnets to insert in the holes. The 3d printer unfortunately had no interest in helping me. I tried troubleshooting for three days but still the problems are not gone. I tried to change multiple settings but the printer could not print the model correctly. In short, 3d printers are amazing when they work but when they don&amp;rsquo;t they get on your nerves! The problem was not solveable within this course so I went to Designlab to get it printed. Below you can see the results!&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>01 Getting Started</title>
-      <link>http://localhost:1313/building-block/week-01/</link>
+      <link>http://localhost:1313/building-block/building-block/</link>
       <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
-      <guid>http://localhost:1313/building-block/week-01/</guid>
+      <guid>http://localhost:1313/building-block/building-block/</guid>
       <description>&lt;h1 id=&#34;building-block-progress-week-1&#34;&gt;Building Block Progress Week 1&lt;/h1&gt;
 &lt;p&gt;The design assignment was to come up with your own design of a construction/building block. Make at least 10 concept drawings or a morphological overview and to keep in mind that next session (so think ahead) the goal is to make a physical prototype of this building block.&lt;/p&gt;
 &lt;p&gt;For my building block I used sketching as the tinkering method. In the picture you can see the process.&lt;/p&gt;</description>

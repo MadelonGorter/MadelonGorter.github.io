@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Individual-Assignments on Portfolio website</title>
+    <link>http://localhost:1313/individual-assignments/</link>
+    <description>Recent content in Individual-Assignments on Portfolio website</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Mar 2025 11:09:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/individual-assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming Paradigm</title>
+      <link>http://localhost:1313/individual-assignments/programming-paradigm/</link>
+      <pubDate>Sat, 15 Mar 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/individual-assignments/programming-paradigm/</guid>
+      <description>&lt;h1 id=&#34;scaffolding-exercise---hack-the-maze&#34;&gt;Scaffolding Exercise - Hack the Maze&lt;/h1&gt;
+&lt;p&gt;For the scaffolding exercise I looked at multiple metaphors for coding. I chose a metaphor about a maze since a maze can only be navigated with concepts that appear in coding. The maze is turned into a game which is played on a magnetic board from &lt;a href=&#34;https://www.ikea.com/nl/nl/p/svensas-memobord-zwart-20440362/&#34;&gt;Ikea&lt;/a&gt; and for the set up I now used a field that is 150 x 250 mm. Since the magnetic board is bigger (400 x 600 mm) than the current playing field the maze set up can be changed to bigger and smaller fields. On this board 3D printed barriers can be put to create a maze setup. A start and end point should be determined and a character is put at the start. To navigate the character cards are available, on these cards specific movements can be found. These cards resemble different programming concepts. The player can make their own character with Lego or 3d print a figure they like.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Material Table</title>
+      <link>http://localhost:1313/individual-assignments/material-table/</link>
+      <pubDate>Mon, 03 Mar 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/individual-assignments/material-table/</guid>
+      <description>&lt;h1 id=&#34;material-table&#34;&gt;Material Table&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tinkerability of Materials&lt;/th&gt;
+          &lt;th&gt;Self Guiding&lt;/th&gt;
+          &lt;th&gt;Preciousness&lt;/th&gt;
+          &lt;th&gt;Skills Needed&lt;/th&gt;
+          &lt;th&gt;Interoperability&lt;/th&gt;
+          &lt;th&gt;Seeing the Process&lt;/th&gt;
+          &lt;th&gt;Seeing the Results&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.storycubes.com/en/&#34;&gt;&lt;strong&gt;Story cubes&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&amp;ndash;&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&amp;ndash;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.storycubes.com/en/&#34;&gt;&lt;strong&gt;Art of tinkering&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;&amp;ndash;&lt;/td&gt;
+          &lt;td&gt;&amp;ndash;&lt;/td&gt;
+          &lt;td&gt;&amp;ndash;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://totemmaker.net/&#34;&gt;&lt;strong&gt;Totem maker&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+-&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.makerbeam.com/&#34;&gt;&lt;strong&gt;Maker beam&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://store.arduino.cc/products/arduino-starter-kit-multi-language&#34;&gt;&lt;strong&gt;Arduino starter kit&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;&amp;ndash;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.sparkfun.com/catalogsearch/result/?q=inventor+kit&#34;&gt;&lt;strong&gt;Sparkfun inventor arduino kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;&amp;ndash;&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://store.arduino.cc/en-nl/products/arduino-sensor-kit-bundle&#34;&gt;&lt;strong&gt;Arduino grove sensor kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://makeymakey.com/&#34;&gt;&lt;strong&gt;MaKey MaKey&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.lego.com/en-us/themes/boost/apps&#34;&gt;&lt;strong&gt;LEGO&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.byor.nl/en/informatie/&#34;&gt;&lt;strong&gt;Build Your Own Robot&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.sarahepage.com/lb_electronic_music_inventor_kit/index.html&#34;&gt;&lt;strong&gt;LittleBits&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://aiyprojects.withgoogle.com/voice/&#34;&gt;&lt;strong&gt;Raspberry Pi Google AIY kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.amazon.com/Piper-Computer-Kit-Minecraft-Raspberry/dp/B07HPFF3KC&#34;&gt;&lt;strong&gt;Raspberry Pi Minecraft kit&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.techniscience.com/nl/nl/mbuild-platform-ai-iot-educatie-set/product/6592/&#34;&gt;&lt;strong&gt;mBuild AI-IoT module set&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.make.do/&#34;&gt;&lt;strong&gt;Makedo cardboard screws&lt;/strong&gt; &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;+&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+          &lt;td&gt;++&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;explanation-of-ranking&#34;&gt;Explanation of ranking&lt;/h1&gt;
+&lt;p&gt;For the material table I chose the criteria of self guiding, preciousness, skills needs, interoperability, seeing the process and seeing the results. I chose these criteria since I felt like they support creativity, exploration and learning by doing. The criteria appeared in the &amp;ldquo;Designing for Tinkerability&amp;rdquo; chapter and in affordances by Norman. My definitions of the criteria are:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building Block</title>
+      <link>http://localhost:1313/individual-assignments/building-block/</link>
+      <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/individual-assignments/building-block/</guid>
+      <description>&lt;h1 id=&#34;building-block-progress-week-1&#34;&gt;Building Block Progress Week 1&lt;/h1&gt;
+&lt;p&gt;The design assignment was to come up with your own design of a construction/building block. Make at least 10 concept drawings or a morphological overview and to keep in mind that next session (so think ahead) the goal is to make a physical prototype of this building block.&lt;/p&gt;
+&lt;p&gt;For my building block I used sketching as the tinkering method. In the picture you can see the process.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

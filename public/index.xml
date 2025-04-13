@@ -31,8 +31,8 @@
       <link>http://localhost:1313/individual-assignments/programming-paradigm/</link>
       <pubDate>Sat, 15 Mar 2025 11:09:52 +0100</pubDate>
       <guid>http://localhost:1313/individual-assignments/programming-paradigm/</guid>
-      <description>&lt;h1 id=&#34;scaffolding-exercise&#34;&gt;Scaffolding Exercise&lt;/h1&gt;
-&lt;p&gt;For the scaffolding exercise I looked at multiple metaphors for coding. I chose a metaphor about a maze since a maze can only be navigated with concepts that appear in coding. The maze will be turned into a game which is played on a big magnetic board (40*60cm). On this board 3D printed barriers can be put to create a maze setup. A start and end point should be determined and a character is put at the start. To navigate the character cards are available, on these cards specific movements can be found. These movement resemble different programming concepts.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;scaffolding-exercise---hack-the-maze&#34;&gt;Scaffolding Exercise - Hack the Maze&lt;/h1&gt;
+&lt;p&gt;For the scaffolding exercise I looked at multiple metaphors for coding. I chose a metaphor about a maze since a maze can only be navigated with concepts that appear in coding. The maze is turned into a game which is played on a magnetic board from &lt;a href=&#34;https://www.ikea.com/nl/nl/p/svensas-memobord-zwart-20440362/&#34;&gt;Ikea&lt;/a&gt; and for the set up I now used a field that is 150 x 250 mm. Since the magnetic board is bigger (400 x 600 mm) than the current playing field the maze set up can be changed to bigger and smaller fields. On this board 3D printed barriers can be put to create a maze setup. A start and end point should be determined and a character is put at the start. To navigate the character cards are available, on these cards specific movements can be found. These cards resemble different programming concepts. The player can make their own character with Lego or 3d print a figure they like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>03 Facilitation</title>

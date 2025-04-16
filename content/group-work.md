@@ -39,9 +39,8 @@ After thinking out the idea we tried making a division between pre-designed part
 
 These building blocks make sure users can quickly and easily carry out their ideas in a physical way. The blocks take care of that the sail cloth can be easily attached to a mast, a mast can be easily mounted to their board and that a sail frame can be made. We thus need to design connectors for attaching rods/masts to each other and the structure and a way to easily attach sail cloth to those rods
 
-
 ### Prototyping
-We started designing and making preliminary design for the three building blocks. As first step we chose a PVC pipe from designlab which we were going to be using for the rods.
+We started designing and making preliminary design for the three building blocks. As first step we chose a PVC pipe from designlab which we were going to be using for the rods. We chose fo PVC pipes since they are easy to use and cheap. We tried making the sail cloth connector and rod connector with a 3d printer since our first idea was to make it with TPU which can be done on a 3D printer. Next to that protoyping with a 3d printer is accessible and cheap especially since a group member has a 3d printer.
 
 There are three different types of building blocks with each different iteration cycles. 
 1. Sail cloth connector

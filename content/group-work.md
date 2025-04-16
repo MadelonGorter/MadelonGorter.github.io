@@ -30,7 +30,7 @@ Our main technical hurdle in this phase was the difficulty of creating an actual
 
 | Sketches of translating wind into motion|  |
 |---------|---------|
-| ![Wind idea 1](/img/Wind-idea1.JPEG) | ![Wind idea 2](/img/Wind-idea2.JPEG) | 
+| ![Wind idea 1](/img/Wind-idea1.jpeg) | ![Wind idea 2](/img/Wind-idea2.jpeg) | 
 
 We used this idea and pitched it again, after reflecting we realised that, though the idea was nice. The building blocks we had thought up would be very hard to realise within the scope of this course. So we made another switch, this time not necessarily for tinkerability's sake, but so that the concept would become something we could realise. We kept the theme of energy transfer but made it more feasible by switching from pistons to sails. We chose this idea since most of our group members have experience with windsurfing and know how the wind is transformed into movement. Next to that most of have handy materials laying around or access to surfing materials so ideas could easily be realised. In addition, this idea requires less precision in the materials used, pistons need to be airtight for example. This meant that prototyping was more forgiving and easy to make different models. A downside to this idea is that the workshop is difficult to do without the wind and thus very reliant on the wind conditions.
 

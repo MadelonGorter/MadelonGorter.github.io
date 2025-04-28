@@ -2,37 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/group-work/</loc>
+    <loc>http://localhost:1313/masteringtinkering/group-work/</loc>
+    <lastmod>2025-04-04T11:09:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/masteringtinkering/</loc>
     <lastmod>2025-04-04T11:09:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-04T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/assignments/05-design-work-critical-making/</loc>
+    <loc>http://localhost:1313/masteringtinkering/assignments/05-design-work-critical-making/</loc>
     <lastmod>2025-04-02T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/assignments/</loc>
-    <lastmod>2025-04-02T11:09:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/individual-assignments/</loc>
+    <loc>http://localhost:1313/masteringtinkering/individual-assignments/programming-paradigm/</loc>
     <lastmod>2025-03-15T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/individual-assignments/programming-paradigm/</loc>
-    <lastmod>2025-03-15T11:09:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/assignments/03-facilitation2/</loc>
+    <loc>http://localhost:1313/masteringtinkering/assignments/03-facilitation2/</loc>
     <lastmod>2025-03-08T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/assignments/02-hands-on/</loc>
+    <loc>http://localhost:1313/masteringtinkering/assignments/02-hands-on/</loc>
     <lastmod>2025-03-03T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/individual-assignments/material-table/</loc>
+    <loc>http://localhost:1313/masteringtinkering/individual-assignments/material-table/</loc>
     <lastmod>2025-03-03T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/assignments/01-getting_started/</loc>
+    <loc>http://localhost:1313/masteringtinkering/assignments/01-getting_started/</loc>
     <lastmod>2025-02-12T11:09:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/individual-assignments/building-block/</loc>
+    <loc>http://localhost:1313/masteringtinkering/individual-assignments/building-block/</loc>
     <lastmod>2025-02-12T11:09:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

@@ -10,18 +10,15 @@ menu:
     - name: About
       url: /about
       weight: 1
-    - name: Reflection Assignments
-      url: /assignments
+    - name: Social Robot Design
+      url: /SocialRobotDesign
       weight: 2
-    - name: Individual Assigments
-      url: /individual-assignments
+    - name: Mastering Tinkering
+      url: /MasteringTinkering
       weight: 3      
-    - name: Group Work
-      url: /group-work
-      weight: 4       
     - name: Search
       url: /search
-      weight: 5   
+      weight: 4   
 
 params:
   ShowToc: true
@@ -31,7 +28,7 @@ params:
   profileMode:
     enabled: true
     title: "Madelon Gorter" # optional default will be site title
-    subtitle: "Welcome to my portfolio website for the Mastering Tinkering course!"
+    subtitle: "Welcome to my portfolio website for the Mastering Tinkering and Social Robot Design courses!"
     imageUrl: "img/Masterskip.JPEG" # optional
     imageTitle: "Profile picture" # optional
     imageWidth: 400 # custom size

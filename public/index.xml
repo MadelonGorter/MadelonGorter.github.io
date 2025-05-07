@@ -6,8 +6,36 @@
     <description>Recent content on Portfolio Website</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 11:09:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 11:09:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Group Work</title>
+      <link>http://localhost:1313/socialrobotdesign/group/</link>
+      <pubDate>Wed, 07 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/group/</guid>
+      <description>&lt;h2 id=&#34;session-2-story-building&#34;&gt;Session 2: Story Building&lt;/h2&gt;
+&lt;p&gt;During the session we first used the Design Tools for Innovation to categorize them as tools that could be usefull for creating scenarios. In the picture below our division can be found.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Cards Session 2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Cards-session2.jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;existing-scenario-tools&#34;&gt;Existing Scenario Tools&lt;/h3&gt;
+&lt;p&gt;We started by making a quick overview of the tools that were in the assignment with ChatGPT to use as a starting point for choosing the scenario tools. It provided the following overview of various scenario tools with their strengths and weaknesses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 2: Story Building</title>
+      <link>http://localhost:1313/socialrobotdesign/reflectionweek2/</link>
+      <pubDate>Wed, 07 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/reflectionweek2/</guid>
+      <description>&lt;h2 id=&#34;categorisation-for-robotai-stories&#34;&gt;Categorisation for Robot/AI stories&lt;/h2&gt;
+&lt;p&gt;The categorisation I can come up with for Robot/AI stories is that you can divide them into three main categories namely themes, purposes and emotional response. With the three categories more subcategories can be made in which the main ones are combined.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moral dilemmas in which real-world problems are challenged by robots/AI&lt;/li&gt;
+&lt;li&gt;Reshaping humans and society through telling stories about changing human identity or society in general with robots/AI&lt;/li&gt;
+&lt;li&gt;Emotional support in which robots/AI have roles in which they are like a friend or companion to a human&lt;/li&gt;
+&lt;li&gt;Dystopian stories in which fears that currently exist about robots/AI are blown up and become true such as taking over the world&lt;/li&gt;
+&lt;li&gt;Utopian stories in which the world can be saved by robots/AI and they are praised contradicting the dystopian stories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;johnson-bd-approach-and-differences&#34;&gt;Johnson B.D. Approach and Differences&lt;/h2&gt;
+&lt;p&gt;Johnson introduced Science Fiction Prototyping as a method to imagine and explore future technologies through storytelling. Johnson advocates the following five step process for writing Science Fiction Prototypes:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Group Work</title>
       <link>http://localhost:1313/masteringtinkering/group-work/</link>
@@ -20,7 +48,7 @@
 &lt;img alt=&#34;Brainstorm&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Brainstorm.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>05 Design Work &amp; Critical Making</title>
+      <title>Reflection 05 Design Work &amp; Critical Making</title>
       <link>http://localhost:1313/masteringtinkering/assignments/05-design-work-critical-making/</link>
       <pubDate>Wed, 02 Apr 2025 11:09:52 +0100</pubDate>
       <guid>http://localhost:1313/masteringtinkering/assignments/05-design-work-critical-making/</guid>
@@ -39,7 +67,7 @@
 &lt;p&gt;For the scaffolding exercise I looked at multiple metaphors for coding. I chose a metaphor about a maze since a maze can only be navigated with concepts that appear in coding. The maze is turned into a game which is played on a magnetic board from &lt;a href=&#34;https://www.ikea.com/nl/nl/p/svensas-memobord-zwart-20440362/&#34;&gt;Ikea&lt;/a&gt; and for the set up I now used a field that is 150 x 250 mm. Since the magnetic board is bigger (400 x 600 mm) than the current playing field the maze set up can be changed to bigger and smaller fields. On this board 3D printed barriers can be put to create a maze setup. A start and end point should be determined and a character is put at the start. To navigate the character cards are available, on these cards specific movements can be found. These cards resemble different programming concepts. The player can make their own character with Lego or 3d print a figure they like.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>03 Facilitation</title>
+      <title>Reflection 03 Facilitation</title>
       <link>http://localhost:1313/masteringtinkering/assignments/03-facilitation2/</link>
       <pubDate>Sat, 08 Mar 2025 11:09:52 +0100</pubDate>
       <guid>http://localhost:1313/masteringtinkering/assignments/03-facilitation2/</guid>
@@ -55,15 +83,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;teaching-papert--montessori&#34;&gt;Teaching: Papert &amp;amp; Montessori&lt;/h2&gt;
 &lt;p&gt;From the Invent to Learn book chapter 5 multiple key principles by Papert and Montessori can be identified.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>02 Hands-on</title>
-      <link>http://localhost:1313/masteringtinkering/assignments/02-hands-on/</link>
-      <pubDate>Mon, 03 Mar 2025 11:09:52 +0100</pubDate>
-      <guid>http://localhost:1313/masteringtinkering/assignments/02-hands-on/</guid>
-      <description>&lt;h1 id=&#34;week-2-reflective-questions&#34;&gt;Week 2 Reflective Questions&lt;/h1&gt;
-&lt;p&gt;I was not physically present during session two and received some information from peers but that was not very useful. I looked into the concept of Affordance and searched for all the different materials online to make the material table. The table can be found on the material table tab.&lt;/p&gt;
-&lt;p&gt;The concept of affordance is used to give a better understanding about what makes materials good for tinkering. The concept of affordance can be viewed from two perspectives, namely Gibson and Norman. Gibson is focussed on the ecological psychology [1] and Norman used the human-computer interaction (HCI) framework [2].&lt;/p&gt;</description>
     </item>
     <item>
       <title>Material Table</title>
@@ -225,7 +244,24 @@
 &lt;p&gt;For the material table I chose the criteria of self guiding, preciousness, skills needs, interoperability, seeing the process and seeing the results. I chose these criteria since I felt like they support creativity, exploration and learning by doing. The criteria appeared in the &amp;ldquo;Designing for Tinkerability&amp;rdquo; chapter and in affordances by Norman. My definitions of the criteria are:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>01 Getting Started</title>
+      <title>Reflection 02 Hands-on</title>
+      <link>http://localhost:1313/masteringtinkering/assignments/02-hands-on/</link>
+      <pubDate>Mon, 03 Mar 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/masteringtinkering/assignments/02-hands-on/</guid>
+      <description>&lt;h1 id=&#34;week-2-reflective-questions&#34;&gt;Week 2 Reflective Questions&lt;/h1&gt;
+&lt;p&gt;I was not physically present during session two and received some information from peers but that was not very useful. I looked into the concept of Affordance and searched for all the different materials online to make the material table. The table can be found on the material table tab.&lt;/p&gt;
+&lt;p&gt;The concept of affordance is used to give a better understanding about what makes materials good for tinkering. The concept of affordance can be viewed from two perspectives, namely Gibson and Norman. Gibson is focussed on the ecological psychology [1] and Norman used the human-computer interaction (HCI) framework [2].&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building Block</title>
+      <link>http://localhost:1313/masteringtinkering/individual-assignments/building-block/</link>
+      <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/masteringtinkering/individual-assignments/building-block/</guid>
+      <description>&lt;h1 id=&#34;building-block-progress-week-1&#34;&gt;Building Block Progress Week 1&lt;/h1&gt;
+&lt;p&gt;The design assignment was to come up with your own design of a construction/building block for which in next session we were going to build a physical prototpye. For my building block I first started making a lot of different sketches which can be seen below. I started with thinking about a lot of different shapes and existing building blocks. After that I tried to combine parts to get a new building block.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflection 01 Getting Started</title>
       <link>http://localhost:1313/masteringtinkering/assignments/01-getting_started/</link>
       <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
       <guid>http://localhost:1313/masteringtinkering/assignments/01-getting_started/</guid>
@@ -256,14 +292,6 @@
 &lt;li&gt;Brushes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I tinker the most in the Design domain more specific in the electronics and 3D printing domains. In these domains the tinkering helps to create prototypes and also iterate these prototypes to see in what ways a prototype can be made and what can be changed. After that the tinkering helps to combine all of these prototypes into one main idea.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building Block</title>
-      <link>http://localhost:1313/masteringtinkering/individual-assignments/building-block/</link>
-      <pubDate>Wed, 12 Feb 2025 11:09:52 +0100</pubDate>
-      <guid>http://localhost:1313/masteringtinkering/individual-assignments/building-block/</guid>
-      <description>&lt;h1 id=&#34;building-block-progress-week-1&#34;&gt;Building Block Progress Week 1&lt;/h1&gt;
-&lt;p&gt;The design assignment was to come up with your own design of a construction/building block for which in next session we were going to build a physical prototpye. For my building block I first started making a lot of different sketches which can be seen below. I started with thinking about a lot of different shapes and existing building blocks. After that I tried to combine parts to get a new building block.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me!</title>

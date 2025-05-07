@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SocialRobotDesigns on Portfolio Website</title>
+    <link>http://localhost:1313/socialrobotdesign/</link>
+    <description>Recent content in SocialRobotDesigns on Portfolio Website</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 11:09:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/socialrobotdesign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Group Work</title>
+      <link>http://localhost:1313/socialrobotdesign/group/</link>
+      <pubDate>Wed, 07 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/group/</guid>
+      <description>&lt;h2 id=&#34;session-2-story-building&#34;&gt;Session 2: Story Building&lt;/h2&gt;
+&lt;p&gt;During the session we first used the Design Tools for Innovation to categorize them as tools that could be usefull for creating scenarios. In the picture below our division can be found.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Cards Session 2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Cards-session2.jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;existing-scenario-tools&#34;&gt;Existing Scenario Tools&lt;/h3&gt;
+&lt;p&gt;We started by making a quick overview of the tools that were in the assignment with ChatGPT to use as a starting point for choosing the scenario tools. It provided the following overview of various scenario tools with their strengths and weaknesses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 2: Story Building</title>
+      <link>http://localhost:1313/socialrobotdesign/reflectionweek2/</link>
+      <pubDate>Wed, 07 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/reflectionweek2/</guid>
+      <description>&lt;h2 id=&#34;categorisation-for-robotai-stories&#34;&gt;Categorisation for Robot/AI stories&lt;/h2&gt;
+&lt;p&gt;The categorisation I can come up with for Robot/AI stories is that you can divide them into three main categories namely themes, purposes and emotional response. With the three categories more subcategories can be made in which the main ones are combined.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moral dilemmas in which real-world problems are challenged by robots/AI&lt;/li&gt;
+&lt;li&gt;Reshaping humans and society through telling stories about changing human identity or society in general with robots/AI&lt;/li&gt;
+&lt;li&gt;Emotional support in which robots/AI have roles in which they are like a friend or companion to a human&lt;/li&gt;
+&lt;li&gt;Dystopian stories in which fears that currently exist about robots/AI are blown up and become true such as taking over the world&lt;/li&gt;
+&lt;li&gt;Utopian stories in which the world can be saved by robots/AI and they are praised contradicting the dystopian stories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;johnson-bd-approach-and-differences&#34;&gt;Johnson B.D. Approach and Differences&lt;/h2&gt;
+&lt;p&gt;Johnson introduced Science Fiction Prototyping as a method to imagine and explore future technologies through storytelling. Johnson advocates the following five step process for writing Science Fiction Prototypes:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,14 +6,32 @@
     <description>Recent content in SocialRobotDesigns on Portfolio Website</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 11:09:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 11:09:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/socialrobotdesign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflective Questions Session 4: Embodiment</title>
+      <link>http://localhost:1313/socialrobotdesign/reflectionweek4/</link>
+      <pubDate>Thu, 15 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/reflectionweek4/</guid>
+      <description>&lt;h2 id=&#34;embodied-agents-vs-virtual-agents&#34;&gt;Embodied Agents vs Virtual Agents&lt;/h2&gt;
+&lt;p&gt;The discussion on embodied agents vs virtual agens is still relevant since embodiment is still has a big influence on interaction with humans. It creates a physical appearance which people trust and gets attention. Other shapes that exist are HoloLens and Meta Quest which are avatars that move in the space around us but do not have a physical body. Next to that AR/VR and holograms are rising in which virtual agents are projected into the physical world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 3: Expression</title>
+      <link>http://localhost:1313/socialrobotdesign/reflectionweek3/</link>
+      <pubDate>Fri, 09 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/reflectionweek3/</guid>
+      <description>&lt;h2 id=&#34;lessons-from-ju--hoffmann&#34;&gt;Lessons from Ju &amp;amp; Hoffmann&lt;/h2&gt;
+&lt;p&gt;The lesson applying to my case is to use motion as communication. As stated in the paper &amp;ldquo;By prioritizing the quality and communicative properties of movement over pragmatic function or aesthetic form, we can give proper attention to the importance of movement in human communication and perception.&amp;rdquo;, before the lesson I did not know how important motion was to express emotions. During the lecture it became clear that even using a simple waterbottle and putting a piece of paper around that, already is able to show some form of emotion. Next to that I was more focussed on the actual expression of a face to express emotion and now knowing that motion is a big key factor makes it very interesting to see what you can achieve without a face or eyes. Also the lesson about using more non-antromorphic robots shows how if we do not give a robot certain human-like features the attribution of emotions is different. Since we perchieve them not as human-like and creates a cognitive dissonance however, I find it very fascinating to combine non-antromorphic robot and motion to see how well emotion can be perceived even tho they are not directly expressed. I also think that using the Wizard of Oz technique a lot of emotions or expressions can be tested which would be nice to use in our own case.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Group Work</title>
       <link>http://localhost:1313/socialrobotdesign/group/</link>
       <pubDate>Wed, 07 May 2025 11:09:52 +0100</pubDate>
       <guid>http://localhost:1313/socialrobotdesign/group/</guid>
-      <description>&lt;h2 id=&#34;session-2-story-building&#34;&gt;Session 2: Story Building&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;session-1-design-tools&#34;&gt;Session 1: Design Tools&lt;/h2&gt;
+&lt;p&gt;I was not present during this session and recevied no input from my group.&lt;/p&gt;
+&lt;h2 id=&#34;session-2-story-building&#34;&gt;Session 2: Story Building&lt;/h2&gt;
 &lt;p&gt;During the session we first used the Design Tools for Innovation to categorize them as tools that could be usefull for creating scenarios. In the picture below our division can be found.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Cards Session 2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Cards-session2.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;existing-scenario-tools&#34;&gt;Existing Scenario Tools&lt;/h3&gt;
@@ -35,6 +53,25 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;johnson-bd-approach-and-differences&#34;&gt;Johnson B.D. Approach and Differences&lt;/h2&gt;
 &lt;p&gt;Johnson introduced Science Fiction Prototyping as a method to imagine and explore future technologies through storytelling. Johnson advocates the following five step process for writing Science Fiction Prototypes:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 1: Design Tools</title>
+      <link>http://localhost:1313/socialrobotdesign/reflectionweek1/</link>
+      <pubDate>Mon, 05 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/reflectionweek1/</guid>
+      <description>&lt;h2 id=&#34;pointers-from-social-robots-from-a-human-perspective-chapter-8&#34;&gt;Pointers from Social Robots from a Human Perspective Chapter 8&lt;/h2&gt;
+&lt;p&gt;The pointers from chapter 8 include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sharing robot projects open-source encourages people to make their own social robot and broaden the field of social robotics but also make robots more accessible.&lt;/li&gt;
+&lt;li&gt;Using a multidisciplinary approach and gathering projects from different fields to make social robots&lt;/li&gt;
+&lt;li&gt;Assessing humanoid factors through: discussing the level of intuitiveness of an artifact; describing the interaction channels of the artifact from the viewpoint of the
+pragmatic of human communication; measuring the face-ism index of the artifact; defining the position of the artifact in the uncanny valley diagram&lt;/li&gt;
+&lt;li&gt;Designing a robotic interface is complex due to lack of standards and it being in development stages in which it is difficult to combine all the different tech parts&lt;/li&gt;
+&lt;li&gt;Importance of having a face as interface that is intuitive and familiar for people to have an interaction&lt;/li&gt;
+&lt;li&gt;Engaging users in design leads to more relevant and accepted social robot designs in the case of InMoov, iCub and Ono.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chapter-9-embodiment-vs-digital-content&#34;&gt;Chapter 9 Embodiment vs Digital Content&lt;/h2&gt;
+&lt;p&gt;The general statements that can be made regarding embodiment vs ditigal content are:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

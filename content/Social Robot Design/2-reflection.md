@@ -1,6 +1,6 @@
 ---
 date: "2025-05-07"
-title: "Reflective Questions Session 2: Scenario"
+title: "Session 2: Scenario Reflective Questions"
 ShowToc: true
 TocOpen: true
 

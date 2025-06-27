@@ -1,6 +1,6 @@
 ---
 date: "2025-05-09"
-title: "Reflective Questions Session 3: Expression"
+title: "Session 3: Expression Reflective Questions"
 ShowToc: true
 TocOpen: true
 

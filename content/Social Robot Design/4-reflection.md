@@ -1,6 +1,6 @@
 ---
 date: "2025-05-15"
-title: "Reflective Questions Session 4: Embodiment"
+title: "Session 4: Embodiment Reflective Questions "
 ShowToc: true
 TocOpen: true
 

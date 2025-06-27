@@ -1,6 +1,6 @@
 ---
 date: "2025-05-05"
-title: "Reflective Questions Session 1: Design Tools"
+title: "Session 1: Design Tools Reflective Questions"
 ShowToc: true
 TocOpen: true
 

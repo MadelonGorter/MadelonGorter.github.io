@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Session 6: Behaviour Tool | Portfolio Website</title>
+<meta name="keywords" content="">
+<meta name="description" content="Description
+The Behavior Recipe Book is a collection of pre-defined behavioral patterns, each captured on a distinct card. These cards serve as building blocks for designing robot interactions, much like design patterns in software or UI design. Each recipe outlines a common interaction goal, a sequence of robot actions, the context in which it&rsquo;s best used, and practical tips for implementation. By using these established patterns, designers can ensure consistency, efficiency, and effectiveness in developing new robot behaviors, moving beyond ad-hoc design to a more structured and informed approach.
+">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/social-robot-design/6-behaviour-tool/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9de45e225101e4f99701d2b68fc6b8a1ef6027928be6391fa15bf7f56326c909.css" integrity="sha256-neReIlEB5PmXAdK2j8a4oe9gJ5KL5jkfoVv39WMmyQk=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/social-robot-design/6-behaviour-tool/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class=" dark" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Portfolio Website (Alt + H)">Portfolio Website</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/social-robot-design" title="Social Robot Design">
+                    <span>Social Robot Design</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/masteringtinkering" title="Mastering Tinkering">
+                    <span>Mastering Tinkering</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/social-robot-design/">Social Robot Designs</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Session 6: Behaviour Tool
+    </h1>
+    <div class="post-meta"><span title='2025-06-02 00:00:00 +0000 UTC'>June 2, 2025</span>
+
+</div>
+  </header> <div class="toc">
+    <details  open>
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#description" aria-label="Description">Description</a></li>
+                <li>
+                    <a href="#smart" aria-label="SMART">SMART</a></li>
+                <li>
+                    <a href="#using-the-tool" aria-label="Using the tool">Using the tool</a><ul>
+                        
+                <li>
+                    <a href="#how-it-works" aria-label="How it works">How it works</a></li></ul>
+                </li>
+                <li>
+                    <a href="#evaluating-the-tool-outcomes" aria-label="Evaluating the tool outcomes">Evaluating the tool outcomes</a><ul>
+                        
+                <li>
+                    <a href="#poem-observation-framework" aria-label="POEM observation framework">POEM observation framework</a></li></ul>
+                </li>
+                <li>
+                    <a href="#evaluating-outcomes-regarding-the-case--literature" aria-label="Evaluating outcomes regarding the case &#43; literature:">Evaluating outcomes regarding the case + literature:</a></li>
+                <li>
+                    <a href="#sources" aria-label="Sources">Sources</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h3 id="description">Description<a hidden class="anchor" aria-hidden="true" href="#description">#</a></h3>
+<p>The Behavior Recipe Book is a collection of pre-defined behavioral patterns, each captured on a distinct card. These cards serve as building blocks for designing robot interactions, much like design patterns in software or UI design. Each recipe outlines a common interaction goal, a sequence of robot actions, the context in which it&rsquo;s best used, and practical tips for implementation. By using these established patterns, designers can ensure consistency, efficiency, and effectiveness in developing new robot behaviors, moving beyond ad-hoc design to a more structured and informed approach.
+<img alt="Scenario" loading="lazy" src="/img/week6-tool.png"></p>
+<h3 id="smart">SMART<a hidden class="anchor" aria-hidden="true" href="#smart">#</a></h3>
+<p>Specific: The tool provides predefined, goal-driven behavior templates that help designers quickly prototype robot interactions.
+Measurable: Designers can evaluate effectiveness based on user engagement, task success rate, and clarity of interaction using consistent recipes.
+Achievable: The tool supports rapid ideation through modular, easy-to-follow cards and requires only low-fidelity tools (roleplay, paper prototyping) for early-stage testing.
+Relevant: Encourages consistency, emotional appropriateness, and functional design in human-robot interactions.
+Time-bound: Can be used throughout the design process—from ideation to testing—with structured, time-efficient prototyping and evaluation phases.</p>
+<h3 id="using-the-tool">Using the tool<a hidden class="anchor" aria-hidden="true" href="#using-the-tool">#</a></h3>
+<p>Use the robot, if it is ready for the testing phase. If not, designers can roleplay the interaction using the Behavior Recipe Cards. In this roleplay, a person enacts the robot following the selected recipe. This allows iterative testing, even in early stages without a working robot prototype.</p>
+<h4 id="how-it-works">How it works<a hidden class="anchor" aria-hidden="true" href="#how-it-works">#</a></h4>
+<p>Designers use a physical or digital set of Behavior Recipe Cards. Each card represents a common robot behavior and is structured to provide:</p>
+<ul>
+<li><strong>Goal:</strong> The primary objective of the behavior (e.g., &ldquo;Show emotional intelligence,&rdquo; &ldquo;Improve communication clarity,&rdquo; &ldquo;Increase task success rates&rdquo;).</li>
+<li><strong>Sequence:</strong> A step-by-step outline of the robot&rsquo;s actions and responses (e.g., &ldquo;Detect user emotion -&gt; Match tone/gesture,&rdquo; &ldquo;Detect presence -&gt; Greet user,&rdquo; &ldquo;User asks questions -&gt; Ask a question -&gt; Wait for response&rdquo;).</li>
+<li><strong>Use When:</strong> The specific scenarios or contexts where this behavior is most appropriate or effective (e.g., &ldquo;When social content is emotionally charged,&rdquo; &ldquo;Robot acts as guide or companion,&rdquo; &ldquo;Teaching or guiding users through steps&rdquo;).</li>
+<li><strong>Tip:</strong> Additional advice, best practices, or considerations for implementing the behavior (e.g., &ldquo;Use only when accurate emotion detection is available,&rdquo; &ldquo;Use soft tones and delay to avoid overwhelming the user,&rdquo; &ldquo;Add reinforcement or suggestion&rdquo;).</li>
+</ul>
+<p>Designers can:</p>
+<ul>
+<li><strong>Browse:</strong> Explore the existing library of cards (such as &ldquo;Emotional Mirror,&rdquo; &ldquo;Follow and Observe,&rdquo; &ldquo;Greet and Mirror,&rdquo; &ldquo;Prompt and Clarify,&rdquo; &ldquo;Help on Cue,&rdquo; &ldquo;Repeat Until Clear,&rdquo; &ldquo;Observe and Wait,&rdquo; &ldquo;Fail Gracefully,&rdquo; and &ldquo;Pause and Check&rdquo;).</li>
+<li><strong>Combine:</strong> Select multiple cards to build complex behavioral sequences for a given scenario.</li>
+<li><strong>Remix and Modify:</strong> Adapt existing recipe sequences or tips to fit unique challenges, or use the &ldquo;Custom Mix Template&rdquo; card to create entirely new behaviors following the established structure.</li>
+<li><strong>Prototype and Test:</strong> Once a behavior sequence is assembled, designers can walk through it, act it out, or use low-fidelity tools (like the Embodied Wizard Proxy or Kitchen Timer Tester) to simulate and test the interaction flow and its perceived effect on users.</li>
+</ul>
+<h3 id="evaluating-the-tool-outcomes">Evaluating the tool outcomes<a hidden class="anchor" aria-hidden="true" href="#evaluating-the-tool-outcomes">#</a></h3>
+<p>Case used: A robot is instructed to pick up medication from a table and distribute it to a user.</p>
+<h4 id="poem-observation-framework">POEM observation framework<a hidden class="anchor" aria-hidden="true" href="#poem-observation-framework">#</a></h4>
+<p>Observations were recorded using the POEM framework.
+<img alt="Scenario" loading="lazy" src="/img/Poem-week6.png"></p>
+<p><strong>Observed behavior</strong></p>
+<ul>
+<li>The &ldquo;Pause &amp; Check&rdquo; behavior was applied: the robot pauses before handing over medication and waits for user acknowledgment (verbal/non-verbal).</li>
+<li>Robot nods and recognizes user cues before proceeding.</li>
+<li>Initiation of the behavior was initially perceived as “strange,” highlighting a need to refine how the behavior starts.</li>
+</ul>
+<p><strong>User Experience Insights</strong></p>
+<ul>
+<li>The interaction felt awkward at first, but the &ldquo;pause&rdquo; helped make the handover feel intentional and respectful.</li>
+<li>Roleplaying (even without a functioning robot) revealed how users interpret robot intention and timing.</li>
+<li>Non-verbal cues were crucial; users responded well to pauses and nods indicating checking or seeking consent.</li>
+</ul>
+<h3 id="evaluating-outcomes-regarding-the-case--literature">Evaluating outcomes regarding the case + literature:<a hidden class="anchor" aria-hidden="true" href="#evaluating-outcomes-regarding-the-case--literature">#</a></h3>
+<p>The &ldquo;Pause &amp; Check&rdquo; behavior card test showed that the Behavior Recipe Book is a useful tool. Even without a real robot, using role-play gave us helpful information about how robot behaviors could be designed and how people might react to them. This supports earlier research that shows simple methods like role-playing can give strong insights during the design process [1], [2].</p>
+<p>One thing we noticed was that the start of the interaction felt a bit awkward. This tells us that we should improve not only the main robot behavior, but also how the behavior fits into the full interaction. This idea fits with design rules that say interactions should feel smooth and natural for users [3].</p>
+<p>We also saw that small non-verbal actions, like nodding or pausing, worked really well. These simple signals helped the robot seem more social and understandable. This matches findings in human-robot interaction research that say small social cues are just as important as the robot’s main actions [4].</p>
+<h3 id="sources">Sources<a hidden class="anchor" aria-hidden="true" href="#sources">#</a></h3>
+<p>[1] J. L. Kolko, &ldquo;Design Thinking Comes of Age,&rdquo; Harvard Business Review, vol. 93, no. 9, 2015.</p>
+<p>[2] P. L. Hekkert and D. J. Hekkert, &ldquo;Design, Science and the Art of Human-Centered Design,&rdquo; Design Issues, vol. 24, no. 3, 2008.</p>
+<p>[3] B. Shneiderman, &ldquo;Eight Golden Rules of Interface Design,&rdquo; in Designing the User Interface: Strategies for Effective Human-Computer Interaction, 6th ed. Boston, MA, USA: Pearson, 2016.</p>
+<p>[4] K. Dautenhahn, &ldquo;Human-Robot Interaction Design,&rdquo; in The Handbook of Robotics, B. Siciliano and O. Khatib, Eds. Cham, Switzerland: Springer, 2016.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/">Portfolio Website</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

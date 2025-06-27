@@ -1,5 +1,5 @@
 ---
-date: "2025-05-09T11:09:52+01:00"
+date: "2025-05-09"
 title: "Reflective Questions Session 3: Expression"
 ShowToc: true
 TocOpen: true

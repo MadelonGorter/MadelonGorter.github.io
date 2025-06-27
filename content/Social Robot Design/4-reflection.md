@@ -1,5 +1,5 @@
 ---
-date: "2025-05-15T11:09:52+01:00"
+date: "2025-05-15"
 title: "Reflective Questions Session 4: Embodiment"
 ShowToc: true
 TocOpen: true
@@ -34,8 +34,6 @@ Examples of conflicts that arise in the function defines form vs social requirem
 Example of a design that is a very good match is a soft robotic in therapy for example the Paro Robot Seal. In this way the soft and cuddly appearance of the seal supports the function of it providing emotional suport and social bonding. Next to that the movement is slow and gentle which aligns the function of emotional support with the social need of comfort and trust. 
 
 ## Duffy's Embodiment Reference 
-Duffy (see below) formulated a nice reference list of aspects relevant for design of embodiment. Which of these are the most relevant for your case?
-
 The most relevant aspects for design of embodiment according to Duffy [4] are: 
 | Principle                                                         | Explanation                                                                                          |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |

@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Session 4: Embodiment Tool | Portfolio Website</title>
+<meta name="keywords" content="">
+<meta name="description" content="Usage of Pepper and Nao
+Yes, a majority of social robotics research still uses Pepper and NAO. These robots are widely available, easy to program, and supported by a strong developer community. While newer robots like Furhat, QTrobot, and ARI are emerging, we believe after looking at some projects that Pepper and NAO remain the majority in many studies, not because they&rsquo;re ideal for every task, but simply because they&rsquo;re accessible and versatile. Despite Pepper&rsquo;s limited commercial success, it’s still heavily used in labs and experiments.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/social-robot-design/4-embodiment-tool/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9de45e225101e4f99701d2b68fc6b8a1ef6027928be6391fa15bf7f56326c909.css" integrity="sha256-neReIlEB5PmXAdK2j8a4oe9gJ5KL5jkfoVv39WMmyQk=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/social-robot-design/4-embodiment-tool/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class=" dark" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Portfolio Website (Alt + H)">Portfolio Website</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/about" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/social-robot-design" title="Social Robot Design">
+                    <span>Social Robot Design</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/masteringtinkering" title="Mastering Tinkering">
+                    <span>Mastering Tinkering</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/social-robot-design/">Social Robot Designs</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Session 4: Embodiment Tool
+    </h1>
+    <div class="post-meta"><span title='2025-05-19 00:00:00 +0000 UTC'>May 19, 2025</span>
+
+</div>
+  </header> <div class="toc">
+    <details  open>
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#usage-of-pepper-and-nao" aria-label="Usage of Pepper and Nao">Usage of Pepper and Nao</a></li>
+                <li>
+                    <a href="#total-freedom-over-the-embodiment-and-suitability-and-matrix" aria-label="Total Freedom over the Embodiment and Suitability and Matrix">Total Freedom over the Embodiment and Suitability and Matrix</a></li>
+                <li>
+                    <a href="#description-of-the-tool" aria-label="Description of the tool">Description of the tool</a></li>
+                <li>
+                    <a href="#smart" aria-label="SMART">SMART</a></li>
+                <li>
+                    <a href="#using-the-tool" aria-label="Using the tool">Using the tool</a></li>
+                <li>
+                    <a href="#evaluating-the-tool-outcomes" aria-label="Evaluating the tool outcomes">Evaluating the tool outcomes</a><ul>
+                        
+                <li>
+                    <a href="#poem-observation-framework" aria-label="POEM Observation Framework">POEM Observation Framework</a></li>
+                <li>
+                    <a href="#pros" aria-label="Pro’s:">Pro’s:</a></li>
+                <li>
+                    <a href="#problems" aria-label="Problems">Problems</a></li></ul>
+                </li>
+                <li>
+                    <a href="#evaluating-outcomes-regarding-a-specific-case--link-to-literature" aria-label="Evaluating outcomes regarding a specific case &#43; link to literature:">Evaluating outcomes regarding a specific case + link to literature:</a></li>
+                <li>
+                    <a href="#designing-social-robots-for-elderly-care-key-insights" aria-label="Designing Social Robots for Elderly Care: Key Insights">Designing Social Robots for Elderly Care: Key Insights</a></li>
+                <li>
+                    <a href="#sources" aria-label="Sources">Sources</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h3 id="usage-of-pepper-and-nao">Usage of Pepper and Nao<a hidden class="anchor" aria-hidden="true" href="#usage-of-pepper-and-nao">#</a></h3>
+<p>Yes, a majority of social robotics research still uses Pepper and NAO. These robots are widely available, easy to program, and supported by a strong developer community. While newer robots like Furhat, QTrobot, and ARI are emerging, we believe after looking at some projects that Pepper and NAO remain the majority in many studies, not because they&rsquo;re ideal for every task, but simply because they&rsquo;re accessible and versatile. Despite Pepper&rsquo;s limited commercial success, it’s still heavily used in labs and experiments.</p>
+<h3 id="total-freedom-over-the-embodiment-and-suitability-and-matrix">Total Freedom over the Embodiment and Suitability and Matrix<a hidden class="anchor" aria-hidden="true" href="#total-freedom-over-the-embodiment-and-suitability-and-matrix">#</a></h3>
+<p>If we were to have total freedom over the embodiment, the robots would be better adapted to the context in which they operate. If it better fits the needs and requirements of the context/environment, it can lead to richer interactions with the robot. The form of the robot seems to define the function in social robotics. The problem with Pepper/Nao is that it is a generalised robot that can function in various environments, without necessarily adapting its embodiment. This can lead to a mismatch in size with the user group, either too small or too big. Pepper &amp; Nao also have limited mobility, limited facial expression, and the humanoid look is leaning towards the uncanny valley for some users. If possibilities were endless, embodiments should include more non-humanoid shapes. In addition, the size should match the environment in which they are used. So, use smaller robots for things like tabletop learning, and bigger robots for transportational functionalities.</p>
+<p>With all these things in mind we created a matrix for all the robots that were seen during the lecture:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Feature/Robot</th>
+          <th>Clicbot</th>
+          <th>DJI Robomaster S1</th>
+          <th>Miko 2 Robot</th>
+          <th>Robot Cat (VibraPurr)</th>
+          <th>mTiny Robot</th>
+          <th>Winky Robot</th>
+          <th>Anki Vector</th>
+          <th>Roybi Robot</th>
+          <th>EMO</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Picture</strong></td>
+          <td><img alt="Robot 1" loading="lazy" src="/img/Clicbot.jpg"></td>
+          <td><img alt="Robot 2" loading="lazy" src="/img/dji-robomaster-s1.jpg"></td>
+          <td><img alt="Robot 3" loading="lazy" src="/img/miko2.jpg"></td>
+          <td><img alt="Robot 4" loading="lazy" src="/img/robotcat.jpg"></td>
+          <td><img alt="Robot 5" loading="lazy" src="/img/mtiny.jpg"></td>
+          <td><img alt="Robot 6" loading="lazy" src="/img/winky.jpg"></td>
+          <td><img alt="Robot 7" loading="lazy" src="/img/ankivector.jpg"></td>
+          <td><img alt="Robot 8" loading="lazy" src="/img/roybi.jpg"></td>
+          <td><img alt="Robot 9" loading="lazy" src="/img/emo.jpg"></td>
+      </tr>
+      <tr>
+          <td><strong>Size</strong></td>
+          <td>Small</td>
+          <td>Small battlebot-like</td>
+          <td>Small</td>
+          <td>Small</td>
+          <td>Small</td>
+          <td>Small and round</td>
+          <td>Small</td>
+          <td>Small</td>
+          <td>Small</td>
+      </tr>
+      <tr>
+          <td><strong>Shape</strong></td>
+          <td>Toy-like, modular</td>
+          <td>Toy-like, tank-like</td>
+          <td>Toy-like, rounded</td>
+          <td>Animal, cat-like</td>
+          <td>Toy-like, cube</td>
+          <td>Toy-like, circular head</td>
+          <td>Compact, cube-shaped</td>
+          <td>Toy-like, rounded</td>
+          <td>Toy-like, humanoid-like</td>
+      </tr>
+      <tr>
+          <td><strong>Colour</strong></td>
+          <td>White and grey</td>
+          <td>Black and grey</td>
+          <td>Blue and white</td>
+          <td>White, grey, beige</td>
+          <td>White with accents</td>
+          <td>Blue, red, white</td>
+          <td>Black with screen face</td>
+          <td>White and pink</td>
+          <td>Black with LED face</td>
+      </tr>
+      <tr>
+          <td><strong>Face</strong></td>
+          <td>One-eyed face screen</td>
+          <td>No face</td>
+          <td>Screen with two eyes</td>
+          <td>&ldquo;Miauw&rdquo; face</td>
+          <td>Two panda eyes, drawn mouth</td>
+          <td>Screen with two eyes</td>
+          <td>Screen with two eyes</td>
+          <td>Round screen</td>
+          <td>Screen with color-changing eyes</td>
+      </tr>
+      <tr>
+          <td><strong>Mobility</strong></td>
+          <td>Wheels, can move like a worm</td>
+          <td>Moves with wheels</td>
+          <td>Small wheels</td>
+          <td>Moves paws, rotates body</td>
+          <td>Small wheels</td>
+          <td>Wheels, moves head and ears</td>
+          <td>Moves with wheels, interacts</td>
+          <td>Static</td>
+          <td>Walks and dances on two legs</td>
+      </tr>
+      <tr>
+          <td><strong>Emotion Expression</strong></td>
+          <td>Voice, screen, movement</td>
+          <td>Not really, but can shoot</td>
+          <td>Expresses emotions (various)</td>
+          <td>Moves, purrs, &ldquo;miauws&rdquo;</td>
+          <td>Facial expressions, movement</td>
+          <td>Eyes, sound, movement</td>
+          <td>Eyes, sound, movement</td>
+          <td>Voice and eye expressions</td>
+          <td>Dances, eyes, sound effects</td>
+      </tr>
+      <tr>
+          <td><strong>Context</strong></td>
+          <td>STEM education, coding</td>
+          <td>Competitive robotics</td>
+          <td>Child learning &amp; fun</td>
+          <td>Elder companionship</td>
+          <td>Preschool coding</td>
+          <td>Child entertainment</td>
+          <td>Home assistant</td>
+          <td>Language learning</td>
+          <td>Home companion</td>
+      </tr>
+      <tr>
+          <td><strong>Expectation Match</strong></td>
+          <td>High (creativity, coding)</td>
+          <td>High (remote-controlled action)</td>
+          <td>Moderate to high (kids)</td>
+          <td>High (pet replacement)</td>
+          <td>High (early education)</td>
+          <td>Moderate (fun-focused)</td>
+          <td>Moderate</td>
+          <td>Moderate (education focus)</td>
+          <td>Moderate (novelty, companion)</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="description-of-the-tool">Description of the tool<a hidden class="anchor" aria-hidden="true" href="#description-of-the-tool">#</a></h3>
+<p>Use the Robot Tinder application to figure out which existing elements of robot embodiment would fit the design task at hand. A group of social robot designers will use the tool, afterwards each of them recieves an overview of their personal preferences. Afterwards, all results can be discussed and compared.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Pictures of the tool</th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><img alt="Embodiment" loading="lazy" src="/img/robot-tinder1.jpg"></td>
+          <td><img alt="Embodiment" loading="lazy" src="/img/robot-tinder2.jpg"></td>
+          <td><img alt="Embodiment" loading="lazy" src="/img/robot-tinder3.jpg"></td>
+          <td><img alt="Embodiment" loading="lazy" src="/img/robot-tinder-parts.png"></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="smart">SMART<a hidden class="anchor" aria-hidden="true" href="#smart">#</a></h3>
+<p>Specific: Define and create a suitable embodiment for a social robot in a given scenario.
+Measurable: Use the Robot Tinder tool to identify preferred embodiment features and discuss these results using a reflection template.
+Achievable: Each participant evaluates and reflects on robot embodiment features through the tool.
+Relevant: The tool helps to identify preferred robot embodiment features, which directly impact the social interaction with a robot.
+Time-bound: Complete the activity, reflection, and group discussion within 1 hour.</p>
+<h3 id="using-the-tool">Using the tool<a hidden class="anchor" aria-hidden="true" href="#using-the-tool">#</a></h3>
+<p><strong>Step 1: The design challenge</strong>
+The tool starts with a challenge, given by the observer/organiser of the session. This challenge should include the context of where it is taking place, and some context on what tasks the robot should be able to do. In general, describe the robot’s application area.</p>
+<p><strong>Step 2: Swiping through embodiments</strong>
+Then, each participant can use the Robot Tinder tool in Figma. This tool includes a variety of (parts of) robot embodiment. The participants can swipe left or right, based on their preferences or suitability for the given scenario. After the participant has swiped through the robot embodiments, they will receive a report with all the liked features. This can help identify which parts of the embodiment, according to that participant, should be included.</p>
+<p><strong>Step 3: Analyse your own preferences</strong>
+After the participant reaches the overview, they need to fill in a short template that helps them identify their preferences. The questions in this overview template are:</p>
+<ul>
+<li>Which embodiment features did you prefer most? Why?</li>
+<li>How does your preference align with the scenario&rsquo;s target audience and tasks?</li>
+<li>Were there any surprises in your choices?</li>
+<li>How human-like should the robot be in this context?</li>
+<li>Which features did you avoid and why?</li>
+</ul>
+<p><strong>Step 4: Group discussion</strong>
+If everyone has finished their analysis, the results can be compared within the group. This is done accordingly to the guiding questions for the group discussion. These can be found below:</p>
+<ul>
+<li>Where do your preferences overlap? Where do they differ?</li>
+<li>How would the selected embodiment affect user perception and trust in your scenario?</li>
+<li>Would your design change if the context or user group were different? What would be changed?</li>
+<li>Are there trade-offs between functionality and emotional appeal?</li>
+<li>What embodiment compromises might be needed for real-world implementation?</li>
+</ul>
+<h3 id="evaluating-the-tool-outcomes">Evaluating the tool outcomes<a hidden class="anchor" aria-hidden="true" href="#evaluating-the-tool-outcomes">#</a></h3>
+<p>Case: Routine robot (e.g. taking medicines) for elderly care homes.</p>
+<h4 id="poem-observation-framework">POEM Observation Framework<a hidden class="anchor" aria-hidden="true" href="#poem-observation-framework">#</a></h4>
+<p>Observations were recorded using the POEM framework.
+<img alt="Scenario" loading="lazy" src="/img/Poem-week4.png"></p>
+<h4 id="pros">Pro’s:<a hidden class="anchor" aria-hidden="true" href="#pros">#</a></h4>
+<p>The Robot Tinder tool provides several key benefits for designing social robot forms, especially when working in groups.</p>
+<p>Firstly, it&rsquo;s engaging and easy to use. The swipe-based system for choosing robot parts is fun and simple to understand, letting participants start designing quickly without much instruction.</p>
+<p>Secondly, it promotes thoughtful design. The tool is a reflection guide that helps users think critically about their choices. It helps you consider how your design fits the robot&rsquo;s purpose and target users, leading to a deeper understanding of how a robot&rsquo;s look affects how people interact with it.</p>
+<p>Thirdly, it could make group discussions way easier. The tool offers a clear way to compare individual preferences, sparking valuable conversations about shared ideas, differing opinions, user trust, and practical challenges in bringing a robot to life.</p>
+<p>It also encourages many varied design ideas. By showing many different robot parts, the tool pushes designers to think beyond the common human-like robots, like Pepper and NAO. This helps them combine features creatively to best suit a specific situation, moving past the idea that one robot design fits all, which is often seen with robots like Pepper and NAO.</p>
+<p>Finally, it helps you deliver clear and visual results. Being able to build a robot visually from chosen parts gives the participants a tangible example design they can easily discuss and review. This visual representation makes it easier to grasp the overall design and its potential effects.</p>
+<h4 id="problems">Problems<a hidden class="anchor" aria-hidden="true" href="#problems">#</a></h4>
+<p>Unclear question in individual reflection. The question ‘How does your preference align with the scenario&rsquo;s target audience and tasks?’ was included to help the participant be critical of their own choices. To make sure that they didn’t just choose their personal preferences. However, there was some confusion about the question; it was explained, and afterwards made more sense.</p>
+<p>In addition, just like with other tools, having the questions/evaluation guidance on paper printed to fill in is easier than having to do it online. For future use of the tool, the guidance questions will have to be printed.</p>
+<h3 id="evaluating-outcomes-regarding-a-specific-case--link-to-literature">Evaluating outcomes regarding a specific case + link to literature:<a hidden class="anchor" aria-hidden="true" href="#evaluating-outcomes-regarding-a-specific-case--link-to-literature">#</a></h3>
+<ul>
+<li><strong>Where do your preferences overlap? Where do they differ?</strong> Friendly-looking robots, round shapes. One has more human-like features, the other has more abstract features. One included wheels, the other did not.</li>
+<li><strong>How would the selected embodiment affect user perception and trust in your scenario?</strong> People will be more likely to follow or listen to the robot because it looks friendly and inviting. It doesn’t look like it would bother them to have the robot around in their home. Note: people might find the robot too friendly, leading to people not listening to the routine robot.</li>
+<li><strong>Would your design change if the context or user group were different? What would be changed?</strong> For routine, a user needs to trust the robot, to give away some form of control. so how it looks will change drastically if the case is changed.</li>
+<li><strong>Are there trade-offs between functionality and emotional appeal?</strong> You cannot make it too round, which will look inviting and friendly. However, that shape will likely take away from the functionalities of the robot.</li>
+<li><strong>What embodiment compromises might be needed for real-world implementation?</strong> Simple function, so the embodiment might not need to be super extensive and complicated for a routine application.</li>
+</ul>
+<p><img alt="Scenario" loading="lazy" src="/img/week4-outcome.png"></p>
+<h3 id="designing-social-robots-for-elderly-care-key-insights">Designing Social Robots for Elderly Care: Key Insights<a hidden class="anchor" aria-hidden="true" href="#designing-social-robots-for-elderly-care-key-insights">#</a></h3>
+<p>Effective social robot design for elderly care, particularly for tasks like medication reminders, hinges on understanding user preferences and practical needs.</p>
+<p>Users generally favor friendly, rounded robots due to their inviting and non-threatening appearance [1]. However, designers must carefully consider how human-like the robot should be, often aiming to avoid the &ldquo;uncanny valley&rdquo; where overly realistic robots can cause discomfort [3].
+A robot&rsquo;s look heavily influences how it&rsquo;s perceived and trusted. A friendly design can encourage elderly residents to follow instructions and accept the robot&rsquo;s presence [1]. Yet, designers must ensure the robot isn&rsquo;t too friendly, which could undermine its perceived authority for important tasks [2].</p>
+<p>Robot designs must adapt to their specific context and users [4]. For elderly care, trust is vital, meaning the robot&rsquo;s appearance will differ significantly from designs for other uses. Solutions must be tailored to address the user&rsquo;s need to &ldquo;give away some control&rdquo; [4].
+A key challenge is balancing functionality with emotional appeal. While rounded shapes are emotionally appealing, they can sometimes limit practical abilities like grasping [4]. Designers often make trade-offs to ensure the robot performs reliably while keeping users comfortable [1].</p>
+<p>Finally, for real-world use, simplicity is often crucial. For routine tasks, a highly complex design isn&rsquo;t practical. A simpler robot can be more affordable, durable, and easier to integrate into care environments [1].
+Ultimately, successful social robot design for elderly care blends user-centered aesthetics, functional capabilities, and practical considerations.</p>
+<h3 id="sources">Sources<a hidden class="anchor" aria-hidden="true" href="#sources">#</a></h3>
+<p>[1] M. Heerink et al., &ldquo;The influence of a robot&rsquo;s social abilities on acceptance by elderly users,&rdquo; in Proc. IEEE Int. Conf. Robot. Autom., 2010, pp. 4930-4936.</p>
+<p>[2] A. Toma et al., &ldquo;Towards Personal Robotics: An Analysis of the State of the Art,&rdquo; in Joint Proc. ACM IUI Workshops, Mar. 2025, pp. 1-10.</p>
+<p>[3] F. Manzi, L. Camussi, and G. Riva, &ldquo;Young Adults&rsquo; Expectations, Attitudes, and Mental Attribution to Two Humanoid Social Robots,&rdquo; Front. Psychol., vol. 12, Feb. 2021.</p>
+<p>[4] C. D. Schiphorst, R. R. Schiphorst, and A. B. Smith, &ldquo;Embodiment and human-robot interaction: A task-based perspective,&rdquo; in Proc. HRI &lsquo;08: ACM/IEEE Int. Conf. Human-Robot Interaction, Mar. 2008, pp. 873–874.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/">Portfolio Website</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

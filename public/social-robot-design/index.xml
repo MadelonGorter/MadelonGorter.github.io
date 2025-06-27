@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Social Robot Designs on Portfolio Website</title>
+    <link>http://localhost:1313/social-robot-design/</link>
+    <description>Recent content in Social Robot Designs on Portfolio Website</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/social-robot-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Session 7: Reflection Tool</title>
+      <link>http://localhost:1313/social-robot-design/7-reflection-tool/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/7-reflection-tool/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;The goal of this tool is to help users identify, understand, and reflect on ethical concerns in social robotics based on their own chosen scenario or idea, using an interactive set of ethical dilemma cards and reflection. This tool is designed to support designers, students, and other stakeholders in exploring the ethical landscape of social robotics. By inputting their own scenario, they can use the ethical cards to uncover relevant dilemmas and have guided discussions that aim to improve the design of social robots.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Session 6: Behaviour Tool</title>
+      <link>http://localhost:1313/social-robot-design/6-behaviour-tool/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/6-behaviour-tool/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;The Behavior Recipe Book is a collection of pre-defined behavioral patterns, each captured on a distinct card. These cards serve as building blocks for designing robot interactions, much like design patterns in software or UI design. Each recipe outlines a common interaction goal, a sequence of robot actions, the context in which it&amp;rsquo;s best used, and practical tips for implementation. By using these established patterns, designers can ensure consistency, efficiency, and effectiveness in developing new robot behaviors, moving beyond ad-hoc design to a more structured and informed approach.
+&lt;img alt=&#34;Scenario&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/week6-tool.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Session 4: Embodiment Tool</title>
+      <link>http://localhost:1313/social-robot-design/4-embodiment-tool/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/4-embodiment-tool/</guid>
+      <description>&lt;h3 id=&#34;usage-of-pepper-and-nao&#34;&gt;Usage of Pepper and Nao&lt;/h3&gt;
+&lt;p&gt;Yes, a majority of social robotics research still uses Pepper and NAO. These robots are widely available, easy to program, and supported by a strong developer community. While newer robots like Furhat, QTrobot, and ARI are emerging, we believe after looking at some projects that Pepper and NAO remain the majority in many studies, not because they&amp;rsquo;re ideal for every task, but simply because they&amp;rsquo;re accessible and versatile. Despite Pepper&amp;rsquo;s limited commercial success, it’s still heavily used in labs and experiments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 4: Embodiment</title>
+      <link>http://localhost:1313/social-robot-design/4-reflection/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/4-reflection/</guid>
+      <description>&lt;h2 id=&#34;embodied-agents-vs-virtual-agents&#34;&gt;Embodied Agents vs Virtual Agents&lt;/h2&gt;
+&lt;p&gt;The discussion on embodied agents vs virtual agens is still relevant since embodiment is still has a big influence on interaction with humans. It creates a physical appearance which people trust and gets attention. Other shapes that exist are HoloLens and Meta Quest which are avatars that move in the space around us but do not have a physical body. Next to that AR/VR and holograms are rising in which virtual agents are projected into the physical world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Session 3: Expression Tool</title>
+      <link>http://localhost:1313/social-robot-design/3-expression-tool/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/3-expression-tool/</guid>
+      <description>&lt;h3 id=&#34;paper-prop-puppeteering&#34;&gt;Paper-prop-puppeteering&lt;/h3&gt;
+&lt;p&gt;We tried to express emotions using a water bottle since we felt like this object does not express emotions. We taped of any visible images/cues, to limit any influence on the emotions. Our goal was to show emotions through movements with the water bottle. We were able to create several emotions with simple movements. The emotions we used are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emotion 1: Happy, water bottle turning upside down and spinning&lt;/li&gt;
+&lt;li&gt;Emotion 2: Sad, waterbottle rolling on the side, slowly&lt;/li&gt;
+&lt;li&gt;Emotion 3: Neutral, water bottle standing normally&lt;/li&gt;
+&lt;li&gt;Emotion 4: Surprised, waterbottle goes through the air/is thrown into the air&lt;/li&gt;
+&lt;li&gt;Emotion 5: Disgusted, water bottle falls on its side&lt;/li&gt;
+&lt;li&gt;Emotion 6: Uninterested, turning the water bottle away&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Emotion 1&lt;/th&gt;
+          &lt;th&gt;Emotion 2&lt;/th&gt;
+          &lt;th&gt;Emotion 3&lt;/th&gt;
+          &lt;th&gt;Emotion 4&lt;/th&gt;
+          &lt;th&gt;Emotion 5&lt;/th&gt;
+          &lt;th&gt;Emotion 6&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;img alt=&#34;Emotion 1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/SRD-happy.png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;Emotion 2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/SRD-sad.png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;Emotion 3&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/SRD-neutral.png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;Emotion 4&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/SRD-surprised.png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;Emotion 5&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/SRD-disgusted.png&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img alt=&#34;Emotion 6&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/SRD-uninterested.png&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;How fast the bottle is turning, rolling, thrown into the air etc. helps express how intense the emotion is.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 3: Expression</title>
+      <link>http://localhost:1313/social-robot-design/3-reflection/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/3-reflection/</guid>
+      <description>&lt;h2 id=&#34;lessons-from-ju--hoffmann&#34;&gt;Lessons from Ju &amp;amp; Hoffmann&lt;/h2&gt;
+&lt;p&gt;The lesson applying to my case is to use motion as communication. As stated in the paper &amp;ldquo;By prioritizing the quality and communicative properties of movement over pragmatic function or aesthetic form, we can give proper attention to the importance of movement in human communication and perception.&amp;rdquo;, before the lesson I did not know how important motion was to express emotions. During the lecture it became clear that even using a simple waterbottle and putting a piece of paper around that, already is able to show some form of emotion. Next to that I was more focussed on the actual expression of a face to express emotion and now knowing that motion is a big key factor makes it very interesting to see what you can achieve without a face or eyes. Also the lesson about using more non-antromorphic robots shows how if we do not give a robot certain human-like features the attribution of emotions is different. Since we perchieve them not as human-like and creates a cognitive dissonance however, I find it very fascinating to combine non-antromorphic robot and motion to see how well emotion can be perceived even tho they are not directly expressed. I also think that using the Wizard of Oz technique a lot of emotions or expressions can be tested which would be nice to use in our own case.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 2: Scenario</title>
+      <link>http://localhost:1313/social-robot-design/2-reflection/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/2-reflection/</guid>
+      <description>&lt;h2 id=&#34;categorisation-for-robotai-stories&#34;&gt;Categorisation for Robot/AI stories&lt;/h2&gt;
+&lt;p&gt;The categorisation I can come up with for Robot/AI stories is that you can divide them into three main categories namely themes, purposes and emotional response. With the three categories more subcategories can be made in which the main ones are combined.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moral dilemmas in which real-world problems are challenged by robots/AI&lt;/li&gt;
+&lt;li&gt;Reshaping humans and society through telling stories about changing human identity or society in general with robots/AI&lt;/li&gt;
+&lt;li&gt;Emotional support in which robots/AI have roles in which they are like a friend or companion to a human&lt;/li&gt;
+&lt;li&gt;Dystopian stories in which fears that currently exist about robots/AI are blown up and become true such as taking over the world&lt;/li&gt;
+&lt;li&gt;Utopian stories in which the world can be saved by robots/AI and they are praised contradicting the dystopian stories&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;johnson-bd-approach-and-differences&#34;&gt;Johnson B.D. Approach and Differences&lt;/h2&gt;
+&lt;p&gt;Johnson introduced Science Fiction Prototyping as a method to imagine and explore future technologies through storytelling. Johnson advocates the following five step process for writing Science Fiction Prototypes:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Session 2: Scenario Tool</title>
+      <link>http://localhost:1313/social-robot-design/2-scenario-tool/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/2-scenario-tool/</guid>
+      <description>&lt;p&gt;During the session we first used the Design Tools for Innovation to categorize them as tools that could be usefull for creating scenarios. In the picture below our division can be found.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Cards Session 2&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/Cards-session2.jpg&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;research&#34;&gt;Research&lt;/h3&gt;
+&lt;p&gt;With the options in mind we soon made the decision to combine scripts and cards since they were the ones that stood out to us. After choosing these tools we searched for scientific articles about how these tools are grounded and wrote a text about this.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflective Questions Session 1: Design Tools</title>
+      <link>http://localhost:1313/social-robot-design/1-reflection/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/1-reflection/</guid>
+      <description>&lt;h2 id=&#34;pointers-from-social-robots-from-a-human-perspective-chapter-8&#34;&gt;Pointers from Social Robots from a Human Perspective Chapter 8&lt;/h2&gt;
+&lt;p&gt;The pointers from chapter 8 include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sharing robot projects open-source encourages people to make their own social robot and broaden the field of social robotics but also make robots more accessible.&lt;/li&gt;
+&lt;li&gt;Using a multidisciplinary approach and gathering projects from different fields to make social robots&lt;/li&gt;
+&lt;li&gt;Assessing humanoid factors through: discussing the level of intuitiveness of an artifact; describing the interaction channels of the artifact from the viewpoint of the
+pragmatic of human communication; measuring the face-ism index of the artifact; defining the position of the artifact in the uncanny valley diagram&lt;/li&gt;
+&lt;li&gt;Designing a robotic interface is complex due to lack of standards and it being in development stages in which it is difficult to combine all the different tech parts&lt;/li&gt;
+&lt;li&gt;Importance of having a face as interface that is intuitive and familiar for people to have an interaction&lt;/li&gt;
+&lt;li&gt;Engaging users in design leads to more relevant and accepted social robot designs in the case of InMoov, iCub and Ono.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chapter-9-embodiment-vs-digital-content&#34;&gt;Chapter 9 Embodiment vs Digital Content&lt;/h2&gt;
+&lt;p&gt;The general statements that can be made regarding embodiment vs ditigal content are:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Week 1: Introduction</title>
+      <link>http://localhost:1313/social-robot-design/1-intro/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/social-robot-design/1-intro/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -11,7 +11,7 @@ menu:
       url: /about
       weight: 1
     - name: Social Robot Design
-      url: /SocialRobotDesign
+      url: /Social Robot Design
       weight: 2
     - name: Mastering Tinkering
       url: /MasteringTinkering

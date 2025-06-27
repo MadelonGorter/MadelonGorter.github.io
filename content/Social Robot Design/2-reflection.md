@@ -1,6 +1,6 @@
 ---
-date: "2025-05-07T11:09:52+01:00"
-title: "Reflective Questions Session 2: Story Building"
+date: "2025-05-07"
+title: "Reflective Questions Session 2: Scenario"
 ShowToc: true
 TocOpen: true
 

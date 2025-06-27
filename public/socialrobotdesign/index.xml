@@ -4,10 +4,48 @@
     <title>SocialRobotDesigns on Portfolio Website</title>
     <link>http://localhost:1313/socialrobotdesign/</link>
     <description>Recent content in SocialRobotDesigns on Portfolio Website</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 May 2025 11:09:52 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 11:09:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/socialrobotdesign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflective Questions Session 6: Behavior</title>
+      <link>http://localhost:1313/socialrobotdesign/reflectionweek6/</link>
+      <pubDate>Sat, 31 May 2025 11:09:52 +0100</pubDate>
+      <guid>http://localhost:1313/socialrobotdesign/reflectionweek6/</guid>
+      <description>&lt;h2 id=&#34;autonomous-vs-puppeteered&#34;&gt;Autonomous vs Puppeteered&lt;/h2&gt;
+&lt;p&gt;Things that have to be autonomous are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reaction on the user&lt;/li&gt;
+&lt;li&gt;Turn-taking and timing in conversation&lt;/li&gt;
+&lt;li&gt;Navigation and obstacle avoidance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Things that can be puppeteered are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Complex gestures or movements&lt;/li&gt;
+&lt;li&gt;Selecting already made responses&lt;/li&gt;
+&lt;li&gt;Robot asking for help&lt;/li&gt;
+&lt;li&gt;Narrative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scripted-aspects&#34;&gt;Scripted Aspects&lt;/h2&gt;
+&lt;p&gt;The aspects that can be scripted are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dialogue&lt;/li&gt;
+&lt;li&gt;Expressions&lt;/li&gt;
+&lt;li&gt;Body language&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;performance-criteria&#34;&gt;Performance Criteria&lt;/h2&gt;
+&lt;p&gt;Design-based performance criteria that can be evaluated are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Timing of responses&lt;/li&gt;
+&lt;li&gt;Amount of errors&lt;/li&gt;
+&lt;li&gt;Trust&lt;/li&gt;
+&lt;li&gt;Engagement&lt;/li&gt;
+&lt;li&gt;Appearance of the robot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bottlenecks-in-autonomy&#34;&gt;Bottlenecks in autonomy&lt;/h2&gt;
+&lt;p&gt;If your system has to work completely autonomous, what are now the most complex bottlenecks? Can you sketch a system outline? Which are the sensors, which are the actuators, what is the &amp;rsquo;thinking?&#39;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reflective Questions Session 4: Embodiment</title>
       <link>http://localhost:1313/socialrobotdesign/reflectionweek4/</link>

@@ -34,7 +34,7 @@
 &lt;p&gt;Yes, a majority of social robotics research still uses Pepper and NAO. These robots are widely available, easy to program, and supported by a strong developer community. While newer robots like Furhat, QTrobot, and ARI are emerging, we believe after looking at some projects that Pepper and NAO remain the majority in many studies, not because they&amp;rsquo;re ideal for every task, but simply because they&amp;rsquo;re accessible and versatile. Despite Pepper&amp;rsquo;s limited commercial success, it’s still heavily used in labs and experiments.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reflective Questions Session 4: Embodiment</title>
+      <title>Session 4: Embodiment Reflective Questions </title>
       <link>http://localhost:1313/social-robot-design/4-reflection/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/social-robot-design/4-reflection/</guid>
@@ -81,7 +81,7 @@
 &lt;p&gt;How fast the bottle is turning, rolling, thrown into the air etc. helps express how intense the emotion is.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reflective Questions Session 3: Expression</title>
+      <title>Session 3: Expression Reflective Questions</title>
       <link>http://localhost:1313/social-robot-design/3-reflection/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/social-robot-design/3-reflection/</guid>
@@ -89,7 +89,7 @@
 &lt;p&gt;The lesson applying to my case is to use motion as communication. As stated in the paper &amp;ldquo;By prioritizing the quality and communicative properties of movement over pragmatic function or aesthetic form, we can give proper attention to the importance of movement in human communication and perception.&amp;rdquo;, before the lesson I did not know how important motion was to express emotions. During the lecture it became clear that even using a simple waterbottle and putting a piece of paper around that, already is able to show some form of emotion. Next to that I was more focussed on the actual expression of a face to express emotion and now knowing that motion is a big key factor makes it very interesting to see what you can achieve without a face or eyes. Also the lesson about using more non-antromorphic robots shows how if we do not give a robot certain human-like features the attribution of emotions is different. Since we perchieve them not as human-like and creates a cognitive dissonance however, I find it very fascinating to combine non-antromorphic robot and motion to see how well emotion can be perceived even tho they are not directly expressed. I also think that using the Wizard of Oz technique a lot of emotions or expressions can be tested which would be nice to use in our own case.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reflective Questions Session 2: Scenario</title>
+      <title>Session 2: Scenario Reflective Questions</title>
       <link>http://localhost:1313/social-robot-design/2-reflection/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/social-robot-design/2-reflection/</guid>
@@ -116,11 +116,14 @@
 &lt;p&gt;With the options in mind we soon made the decision to combine scripts and cards since they were the ones that stood out to us. After choosing these tools we searched for scientific articles about how these tools are grounded and wrote a text about this.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reflective Questions Session 1: Design Tools</title>
+      <title>Session 1: Design Tools Reflective Questions</title>
       <link>http://localhost:1313/social-robot-design/1-reflection/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/social-robot-design/1-reflection/</guid>
-      <description>&lt;h2 id=&#34;pointers-from-social-robots-from-a-human-perspective-chapter-8&#34;&gt;Pointers from Social Robots from a Human Perspective Chapter 8&lt;/h2&gt;
+      <description>&lt;p&gt;I was not present during the first session and my group was unable to give me information that I could put in my portfolio.
+My groupmates are: Melissa and Nikita
+We did not use one case for all the tools but different cases to test each tool.&lt;/p&gt;
+&lt;h2 id=&#34;pointers-from-social-robots-from-a-human-perspective-chapter-8&#34;&gt;Pointers from Social Robots from a Human Perspective Chapter 8&lt;/h2&gt;
 &lt;p&gt;The pointers from chapter 8 include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sharing robot projects open-source encourages people to make their own social robot and broaden the field of social robotics but also make robots more accessible.&lt;/li&gt;
@@ -133,13 +136,6 @@ pragmatic of human communication; measuring the face-ism index of the artifact; 
 &lt;/ul&gt;
 &lt;h2 id=&#34;chapter-9-embodiment-vs-digital-content&#34;&gt;Chapter 9 Embodiment vs Digital Content&lt;/h2&gt;
 &lt;p&gt;The general statements that can be made regarding embodiment vs ditigal content are:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Week 1: Introduction</title>
-      <link>http://localhost:1313/social-robot-design/1-intro/</link>
-      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/social-robot-design/1-intro/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

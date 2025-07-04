@@ -6,6 +6,10 @@ TocOpen: true
 
 ---
 
+I was not present during the first session and my group was unable to give me information that I could put in my portfolio. 
+My groupmates are: Melissa and Nikita
+We did not use one case for all the tools but different cases to test each tool.
+
 ## Pointers from Social Robots from a Human Perspective Chapter 8
 The pointers from chapter 8 include:
 - Sharing robot projects open-source encourages people to make their own social robot and broaden the field of social robotics but also make robots more accessible.
